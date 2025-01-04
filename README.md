@@ -2,7 +2,7 @@
 
 The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf).
 
-A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9).
+A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9). Note these are the same requirements as the lecture "Foundations of Deep Learning".
 
 ## Weekly schedule
 Wednesday, 10.15-12.00
