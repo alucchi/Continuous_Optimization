@@ -44,9 +44,18 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 
 | Week     | Date       | Weekday | Topic                                            | File                                                   |
 |----------|------------|---------|--------------------------------------------------|--------------------------------------------------------|
-| 0        | 19/09/2024 | Thursday| Prerequisites (Recap)                            |[Ex.0](exercises_2024/LINK)                             |
+|0| 24/02/2025|Monday| Prerequisites (Recap) and Fundamentals| [Ex.1](slides_2025/01_introduction.pdf) |
+|1| 03/03/2025| Monday| Gradient Descent| | 
+|2| 10/03/2025| Monday| Fasnachstferien (No seminar) | |
+|3| 17/03/2025| Monday| Subgradient Descent| | 
+|4| 24/03/2025| Monday| Constrained Optimization| |
+|5| 31/03/2025| Monday| Proximal Algorithms| | 
+|6| 07/04/2025| Monday| Newton's Method| |
+|7| 14/04/2025| Monday| Stochastic Optimization| | 
+|8| 21/04/2025| Monday| Ostern (No seminar)| | 
+|9| 28/04/2025| Monday| Acceleration| |
+|10| 05/05/2025| Monday| Non-convex Optimization| | 
        
-**TODO TAS
 
 ## Continuous assessment
 
@@ -57,7 +66,12 @@ Note the following split:
 - 35% written exam
 
 Preliminary dates for continuous assessments (CA): 
-**TODO TAS
+1. 03/03/2025 Q&A 
+2. 17/03/2025 CA
+3. 31/03/2025 Q&A
+4. 07/04/2025 CA
+5. 28/04/2025 Q&A
+6. 12/05/2025 CA
 
 
 **A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
@@ -70,7 +84,9 @@ Information about the exam: you can bring two two-sided A4 sheets or four one-si
 ## Homework
 You have to hand in two homework sheets out of the following three options:
 
-TODO TAS: add title, and dates for homeworkds here
+1. HW1 Deadline: 24/03/2025
+2. HW2 Deadline: 28/04/2025
+3. HW3 Deadline: 26/05/2025
 
 Each homework is required to be written in Latex using the provided template [hw_template.zip](homework_2024/hw_template.zip). Each homework has to be submitted in "Homework" section via ADAM.
 The submitted file name should be in form "[full name]_hw[n]" where n is the index of the exercise.  
