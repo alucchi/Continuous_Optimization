@@ -88,7 +88,7 @@ You have to hand in two homework sheets out of the following three options:
 2. HW2 Deadline: 28/04/2025
 3. HW3 Deadline: 26/05/2025
 
-Each homework is required to be written in Latex using the provided template [hw_template.zip](Homeworks/template.zip). Each homework has to be submitted in "Homework" section via ADAM.
+Each homework is required to be written in Latex using the provided template [hw_template.zip](Homeworks). Each homework has to be submitted in "Homework" section via ADAM.
 The submitted file name should be in form "[full name]_hw[n]" where n is the index of the exercise.  
 Each homework is equally weighted. 
 Any homework that is sent late will not be graded and will be worth no credit. 
