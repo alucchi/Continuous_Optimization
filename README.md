@@ -44,7 +44,7 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 
 | Week     | Date       | Weekday | Topic                                            | File                                                   |
 |----------|------------|---------|--------------------------------------------------|--------------------------------------------------------|
-|0| 24/02/2025|Monday| Prerequisites (Recap) and Fundamentals| [Ex.1](slides_2025/01_introduction.pdf) |
+|0| 24/02/2025|Monday| Prerequisites (Recap) and Fundamentals| [Prerequisites](https://github.com/alucchi/Continuous_Optimization/blob/main/Exercises/Essential%20Prerequisites%20Review.pdf) |
 |1| 03/03/2025| Monday| Gradient Descent| | 
 |2| 10/03/2025| Monday| Fasnachstferien (No seminar) | |
 |3| 17/03/2025| Monday| Subgradient Descent| | 
