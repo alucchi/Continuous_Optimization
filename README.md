@@ -33,8 +33,8 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 | 8    | 16/04/2025 | Wednesday | Acceleration               |
 | 9    | 23/04/2025 | Wednesday | Non-convex Optimization    |
 | 10   | 30/04/2025 | Wednesday | Escaping Saddle Points     |
-| 11   | 07/05/2025 | Wednesday |                            |
-| 12   | 14/05/2025 | Wednesday |                           |
+| 11   | 07/05/2025 | Wednesday | Mirror Descent             |
+| 12   | 14/05/2025 | Wednesday | Franke Wolfe               |
 | 13   | 21/05/2025 | Wednesday |               |
 | 14   | 28/05/2025 | Wednesday |        |
 
@@ -44,17 +44,20 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 
 | Week     | Date       | Weekday | Topic                                            | File                                                   |
 |----------|------------|---------|--------------------------------------------------|--------------------------------------------------------|
-|0| 24/02/2025|Monday| Prerequisites (Recap) and Fundamentals| [Prerequisites](https://github.com/alucchi/Continuous_Optimization/blob/main/Exercises/Essential%20Prerequisites%20Review.pdf) |
-|1| 03/03/2025| Monday| Gradient Descent| | 
-|2| 10/03/2025| Monday| Fasnachstferien (No seminar) | |
-|3| 17/03/2025| Monday| Subgradient Descent| | 
-|4| 24/03/2025| Monday| Constrained Optimization| |
-|5| 31/03/2025| Monday| Proximal Algorithms| | 
-|6| 07/04/2025| Monday| Newton's Method| |
-|7| 14/04/2025| Monday| Stochastic Optimization| | 
-|8| 21/04/2025| Monday| Ostern (No seminar)| | 
-|9| 28/04/2025| Monday| Acceleration| |
-|10| 05/05/2025| Monday| Non-convex Optimization| | 
+|0| 25/02/2025|Monday| Prerequisites (Recap) and Fundamentals| [Prerequisites](https://github.com/alucchi/Continuous_Optimization/blob/main/Exercises/Essential%20Prerequisites%20Review.pdf) |
+|1| 03/03/2025| Monday| Fundamentals|[Exercise 1](Exercises/Exercise_1.pdf) | 
+|2| 10/03/2025| Monday| Fasnachstferien (No seminar)| | 
+|3| 17/03/2025| Monday| Gradient Descent | [Exercise 2](Exercises/Exercise_2.pdf) |
+|4| 24/03/2025| Monday| Subgradient Descent| | 
+|5| 31/03/2025| Monday| Constrained Optimization| |
+|6| 07/04/2025| Monday| Proximal Algorithms| | 
+|7| 14/04/2025| Monday| Newton's Method| |
+|8| 21/04/2025| Monday| Stochastic Optimization| | 
+|9| 28/04/2025| Monday| Ostern (No seminar)| | 
+|10| 05/05/2025| Monday| Acceleration| |
+|11| 12/05/2025| Monday| Non-convex Optimization| | 
+|11| 19/05/2025| Monday| Mirror Descent| | 
+|11| 26/05/2025| Monday| Franke Wolfe| | 
        
 
 ## Continuous assessment
@@ -88,10 +91,13 @@ You have to hand in two homework sheets out of the following three options:
 2. HW2 Deadline: 28/04/2025
 3. HW3 Deadline: 26/05/2025
 
-Each homework is required to be written in Latex using the provided template [hw_template.zip](Homeworks). Each homework has to be submitted in "Homework" section via ADAM.
-The submitted file name should be in form "[full name]_hw[n]" where n is the index of the exercise.  
-Each homework is equally weighted. 
-Any homework that is sent late will not be graded and will be worth no credit. 
+Each homework is required to be written in Latex using the provided template. The submitted file name should be in form [full name]_hw[n] where n is the index of the exercise.
+
+**Note:** Each homework is equally weighted. Any homework that is sent late will not be graded and will be worth no credit. 
+
+> Please mention the following declaration regarding the use of AI in your submitted copies.
+
+*"I have taken note of the fact that in the event of justified suspicion of the unauthorized or undisclosed use of AI in written assessments, I am upon request obligated to cooperate in confirming or ruling out the suspicion, for example by attending an interview."*
 
 ## Projects
 Projects have to be completed within a group of 2-3 students. Two types of projects you can pursue are:
