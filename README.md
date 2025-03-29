@@ -52,8 +52,8 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 |5| 31/03/2025| Monday| Constrained Optimization| [Exercise 4](Exercises/Exercise_4_Constrained_Optimization.pdf)|
 |6| 07/04/2025| Monday| Proximal Algorithms| | 
 |7| 14/04/2025| Monday| Newton's Method| |
-|8| 21/04/2025| Monday| Stochastic Optimization| | 
-|9| 28/04/2025| Monday| Ostern (No seminar)| | 
+|8| 21/04/2025| Monday| Ostern (No seminar)| | 
+|9| 28/04/2025| Monday| Stochastic Optimization| | 
 |10| 05/05/2025| Monday| Acceleration| |
 |11| 12/05/2025| Monday| Non-convex Optimization| | 
 |11| 19/05/2025| Monday| Mirror Descent| | 
@@ -73,8 +73,8 @@ Preliminary dates for continuous assessments (CA):
 2. 17/03/2025 CA
 3. 31/03/2025 Q&A
 4. 07/04/2025 CA
-5. 28/04/2025 Q&A
-6. 12/05/2025 CA
+5. 12/05/2025 Q&A
+6. 19/05/2025 CA
 
 
 **A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
