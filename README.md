@@ -56,8 +56,8 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 |9| 28/04/2025| Monday| Stochastic Optimization| | 
 |10| 05/05/2025| Monday| Acceleration| |
 |11| 12/05/2025| Monday| Non-convex Optimization| | 
-|11| 19/05/2025| Monday| Mirror Descent| | 
-|11| 26/05/2025| Monday| Franke Wolfe| | 
+|11| 19/05/2025| Monday| Escaping Saddle Points| | 
+|11| 26/05/2025| Monday| Adaptive Optimization Methods | | 
        
 
 ## Continuous assessment
