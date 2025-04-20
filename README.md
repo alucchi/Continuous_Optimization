@@ -24,19 +24,19 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 |------|------------|-----------|----------------------------|
 | 0    | 19/02/2025 | Wednesday | Introduction               |
 | 1    | 26/02/2025 | Wednesday | Fundamentals               |
-| 2    | 05/03/2025 | Wednesday | Subgradient Descent        |
+| 2    | 05/03/2025 | Wednesday | Gradient Descent        |
 | 3    | 12/03/2025 | Wednesday | Fasnachstferien (No lecture) |
-| 4    | 19/03/2025 | Wednesday | Constrained Optimization   |
-| 5    | 26/03/2025 | Wednesday | Proximal Algorithms        |
-| 6    | 02/04/2025 | Wednesday | Newton's method            |
-| 7    | 09/04/2025 | Wednesday | Stochastic Optimization    |
-| 8    | 16/04/2025 | Wednesday | Acceleration               |
-| 9    | 23/04/2025 | Wednesday | Non-convex Optimization    |
-| 10   | 30/04/2025 | Wednesday | Escaping Saddle Points     |
-| 11   | 07/05/2025 | Wednesday | Mirror Descent             |
-| 12   | 14/05/2025 | Wednesday | Franke Wolfe               |
-| 13   | 21/05/2025 | Wednesday |               |
-| 14   | 28/05/2025 | Wednesday |        |
+| 4    | 19/03/2025 | Wednesday | Subgradient Descent   |
+| 5    | 26/03/2025 | Wednesday | Constrained Optimization        |
+| 6    | 02/04/2025 | Wednesday | Proximal Algorithms            |
+| 7    | 09/04/2025 | Wednesday | Newton's method    |
+| 8    | 16/04/2025 | Wednesday | Stochastic Optimization               |
+| 9    | 23/04/2025 | Wednesday | Easter break (no lecture)    |
+| 10   | 30/04/2025 | Wednesday | Acceleration     |
+| 11   | 07/05/2025 | Wednesday | Non-convex Optimization             |
+| 12   | 14/05/2025 | Wednesday | Escaping Saddle Points              |
+| 13   | 21/05/2025 | Wednesday | Adaptive Optimization Methods              |
+| 14   | 28/05/2025 | Wednesday |  TBD      |
 
        
 
