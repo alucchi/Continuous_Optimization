@@ -106,6 +106,7 @@ Projects have to be completed within a group of 2-3 students. Two types of proje
 Students cannot use their own published work as the course project.
 Deadline: 21/07/2025 12:00 Bern time
 Submission: on ADAM
+Link to project description: [here](Projects/Continuous_Optimization_2025_Projects.pdf)
 
 
 
