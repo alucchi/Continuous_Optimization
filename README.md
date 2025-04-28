@@ -52,7 +52,7 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 |5| 31/03/2025| Monday| Constrained Optimization| [Exercise 4](Exercises/Exercise_4_Constrained_Optimization.pdf)|
 |6| 07/04/2025| Monday| Proximal Algorithms| [Exercise 5](Exercises/Exercise5_Proximal_Gradient_Descent.pdf)| 
 |7| 14/04/2025| Monday| Newton's Method|  [Exercise 6](Exercises/Exercise6_Newton_method.pdf)| 
-|8| 21/04/2025| Monday| Ostern (No seminar)| | 
+|8| 21/04/2025| Monday| Ostern (No seminar)| [Exercise 7](Exercises/Stochastic_Optimization.pdf)| 
 |9| 28/04/2025| Monday| Stochastic Optimization| | 
 |10| 05/05/2025| Monday| Acceleration| |
 |11| 12/05/2025| Monday| Non-convex Optimization| | 
