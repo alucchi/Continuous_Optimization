@@ -33,9 +33,9 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 | 8    | 16/04/2025 | Wednesday | Stochastic Optimization               |
 | 9    | 23/04/2025 | Wednesday | Easter break (no lecture)    |
 | 10   | 30/04/2025 | Wednesday | Acceleration     |
-| 11   | 07/05/2025 | Wednesday | Non-convex Optimization             |
-| 12   | 14/05/2025 | Wednesday | Escaping Saddle Points              |
-| 13   | 21/05/2025 | Wednesday | Adaptive Optimization Methods              |
+| 11   | 07/05/2025 | Wednesday | Adaptive Optimization Methods              |
+| 12   | 14/05/2025 | Wednesday | Non-convex Optimization              |
+| 13   | 21/05/2025 | Wednesday | Escaping Saddle Points             |
 | 14   | 28/05/2025 | Wednesday |  TBD      |
 
        
@@ -55,9 +55,9 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 |8| 21/04/2025| Monday| Ostern (No seminar)| | 
 |9| 28/04/2025| Monday| Stochastic Optimization|[Exercise 7](Exercises/Exercise7_Stochastic_Optimization.pdf) | 
 |10| 05/05/2025| Monday| Acceleration| |
-|11| 12/05/2025| Monday| Non-convex Optimization| | 
-|11| 19/05/2025| Monday| Escaping Saddle Points| | 
-|11| 26/05/2025| Monday| Adaptive Optimization Methods | | 
+|11| 12/05/2025| Monday| Adaptive Optimization Methods| | 
+|11| 19/05/2025| Monday| Non-convex Optimization| | 
+|11| 26/05/2025| Monday| Escaping Saddle Points | | 
        
 
 ## Continuous assessment
