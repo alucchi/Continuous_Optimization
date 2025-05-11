@@ -56,7 +56,7 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 |9| 28/04/2025| Monday| Stochastic Optimization|[Exercise 7](Exercises/Exercise7_Stochastic_Optimization.pdf) | 
 |10| 05/05/2025| Monday| Acceleration| [Exercise 8](Exercises/Exercise8_Acceleration.pdf)|
 |11| 12/05/2025| Monday| Adaptive Optimization Methods|[Exercise 9](Exercises/exercise9_Adaptive_Methods.pdf) | 
-|11| 19/05/2025| Monday| TBD | | 
+|11| 19/05/2025| Monday| No Seminar | | 
 |11| 26/05/2025| Monday| Non-convex Optimization | | 
        
 
@@ -73,8 +73,8 @@ Preliminary dates for continuous assessments (CA):
 2. 17/03/2025 CA
 3. 31/03/2025 Q&A
 4. 07/04/2025 CA
-5. 12/05/2025 Q&A
-6. 19/05/2025 CA
+5. 12/05/2025 Q&A (topic: SGD)
+6. 19/05/2025 CA (topic: Acceleration)
 
 
 **A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
