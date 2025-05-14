@@ -80,7 +80,7 @@ Preliminary dates for continuous assessments (CA):
 **A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
 
 ## Exam
-Date for written exam: TBD
+Date for written exam: 7/07/2025: 10:00-12:00, Biozentrum U1.101
 
 Information about the exam: you can bring two two-sided A4 sheets or four one-sided A4 sheets (hand-written or latex).
 
