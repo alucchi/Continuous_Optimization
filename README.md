@@ -11,8 +11,11 @@ Kollegienhaus, Hörsaal 119
 Monday, 14.15-16.00
 Spiegelgasse 1, Seminarraum 00.003
 
+Friday, 14.15-16.00
+Spiegelgasse 1, Seminarraum U1.001
+
 ## Prerequisites
-There is no exercise or lecture on Monday 17/02/2025. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+There is no exercise the first week. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
 
 
 
@@ -23,26 +26,36 @@ There is no exercise or lecture on Monday 17/02/2025. Please use this time to re
 | Week | Date       | Weekday   | Topic                      |
 |------|------------|-----------|----------------------------|
 | 0    | 18.02.2026 | Wednesday | Introduction               |
-| 0    | 02.03.2026 | Monday | Introduction               |
-| 0    | 04.03.2026 | Wednesday | Fundamentals               |
-| 1    | 09.03.2026 | Monday | Fundamentals               |
-| 2    | 11.03.2026 | Wednesday | Gradient Descent        |
-| 3    | 16.03.2026 | Monday | Fasnachstferien (No lecture) |
-| 4    | 18.03.2026 | Wednesday | Subgradient Descent   |
-| 5    | 23.03.2026 | Monday | Constrained Optimization        |
-| 6    | 25.03.2026 | Wednesday | Proximal Algorithms            |
-| 7    | 30.03.2026 | Monday | Newton's method    |
-| 8    | 01.04.2026 | Wednesday | Stochastic Optimization               |
-| 9    | 23/04/2025 | Monday | Easter break (no lecture)    |
-| 10   | 30/04/2025 | Wednesday | Acceleration     |
-| 11   | 07/05/2025 | Wednesday | Adaptive Optimization Methods              |
-| 12   | 14/05/2025 | Wednesday | Exam Review (Zoom recording, not in person)              |
-| 13   | 21/05/2025 | Wednesday | Non-convex Optimization             |
-| 14   | 28/05/2025 | Wednesday |  No lecture     |
+| 1    | 23.02.2026 | Monday | Fasnachstferien (No lecture)               |
+| 1    | 25.02.2026 | Wednesday | Fasnachstferien (No lecture)               |
+| 2    | 02.03.2026 | Monday | Fundamentals               |
+| 2    | 04.03.2026 | Wednesday | Fundamentals               |
+| 3    | 09.03.2026 | Monday | Gradient Descent               |
+| 3    | 11.03.2026 | Wednesday | Subgradient Descent       |
+| 4    | 16.03.2026 | Monday | Constrained Optimization |
+| 4    | 18.03.2026 | Wednesday |  Proximal Algorithms   |
+| 5    | 23.03.2026 | Monday |  Newton's method       |
+| 5    | 25.03.2026 | Wednesday | Derivative-free           |
+| 6    | 30.03.2026 | Monday |  Stochastic Optimization   |
+| 6    | 01.04.2026 | Wednesday | No lecture               |
+| 7    | 06.04.2026 | Monday | Easter break (no lecture)    |
+| 7   | 08.04.2026 | Wednesday |  Mid-term exam    |
+| 8   | 13.04.2026 | Monday | Acceleration              |
+| 8   | 15.04.2026 | Wednesday | Adaptive Optimization Methods             |
+| 9   | 20.04.2026 | Monday | Lower bounds             |
+| 9   | 22.04.2026 | Wednesday |  Non-convex Optimization     |
+| 10   | 27.04.2026 | Monday |  Non-convex Optimization     |
+| 10   | 29.04.2026 | Wednesday |  Cubic Regularization     |
+| 11   | 04.05.2026 | Monday |  No lecture     |
+| 11   | 06.05.2026 | Wednesday |  No lecture     |
+| 12   | 11.05.2026 | Monday |  Project presentation     |
+| 12   | 13.05.2026 | Wednesday |  Project presentation     |
+| 13   | 18.05.2026 | Monday |  Project presentation     |
+| 13   | 20.05.2026 | Wednesday |  Project presentation     |
+| 14   | 25.05.2026 | Monday |  Review (exam preparation)    |
+| 14   | 27.05.2026 | Wednesday |  No lecture     |
 
-       
-
-## Exercise schedule
+## Exercise schedule (TO BE UPDATED)
 
 | Week     | Date       | Weekday | Topic                                            | File                                                   |
 |----------|------------|---------|--------------------------------------------------|--------------------------------------------------------|
