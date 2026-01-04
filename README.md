@@ -32,7 +32,7 @@ There is no exercise the first week. Please use this time to read the first chap
 | 2    | 04.03.2026 | Wednesday | Fundamentals               |
 | 3    | 09.03.2026 | Monday | Gradient Descent               |
 | 3    | 11.03.2026 | Wednesday | Subgradient Descent       |
-| 4    | 16.03.2026 | Monday | Constrained Optimization |
+| 4    | 16.03.2026 | Monday |  |
 | 4    | 18.03.2026 | Wednesday |  Proximal Algorithms   |
 | 5    | 23.03.2026 | Monday |  Newton's method       |
 | 5    | 25.03.2026 | Wednesday | Derivative-free           |
@@ -41,14 +41,14 @@ There is no exercise the first week. Please use this time to read the first chap
 | 7    | 06.04.2026 | Monday | Easter break (no lecture)    |
 | 7   | 08.04.2026 | Wednesday |  Mid-term exam    |
 | 8   | 13.04.2026 | Monday | Acceleration              |
-| 8   | 15.04.2026 | Wednesday | Adaptive Optimization Methods             |
+| 8   | 15.04.2026 | Wednesday | Constrained Optimization             |
 | 9   | 20.04.2026 | Monday | Lower bounds             |
-| 9   | 22.04.2026 | Wednesday |  Non-convex Optimization     |
+| 9   | 22.04.2026 | Wednesday |  Adaptive Optimization Methods     |
 | 10   | 27.04.2026 | Monday |  Non-convex Optimization     |
-| 10   | 29.04.2026 | Wednesday |  Cubic Regularization     |
-| 11   | 04.05.2026 | Monday |  No lecture     |
-| 11   | 06.05.2026 | Wednesday |  No lecture     |
-| 12   | 11.05.2026 | Monday |  Project presentation     |
+| 10   | 29.04.2026 | Wednesday |  Non-convex Optimization     |
+| 11   | 04.05.2026 | Monday |  Project work (no lecture)    |
+| 11   | 06.05.2026 | Wednesday |  Project work (no lecture)     |
+| 12   | 11.05.2026 | Monday |  Cubic Regularization     |
 | 12   | 13.05.2026 | Wednesday |  Project presentation     |
 | 13   | 18.05.2026 | Monday |  Project presentation     |
 | 13   | 20.05.2026 | Wednesday |  Project presentation     |
