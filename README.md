@@ -32,16 +32,16 @@ There is no exercise the first week. Please use this time to read the first chap
 | 2    | 04.03.2026 | Wednesday | Fundamentals               |
 | 3    | 09.03.2026 | Monday | Gradient Descent               |
 | 3    | 11.03.2026 | Wednesday | Subgradient Descent       |
-| 4    | 16.03.2026 | Monday |  |
-| 4    | 18.03.2026 | Wednesday |  Proximal Algorithms   |
-| 5    | 23.03.2026 | Monday |  Newton's method       |
-| 5    | 25.03.2026 | Wednesday | Derivative-free           |
-| 6    | 30.03.2026 | Monday |  Stochastic Optimization   |
+| 4    | 16.03.2026 | Monday | Proximal Algorithms |
+| 4    | 18.03.2026 | Wednesday | Newton's method     |
+| 5    | 23.03.2026 | Monday |    Derivative-free (Francesco Scala)   |
+| 5    | 25.03.2026 | Wednesday |  Stochastic Optimization          |
+| 6    | 30.03.2026 | Monday |  Mid-term exam review   |
 | 6    | 01.04.2026 | Wednesday | No lecture               |
 | 7    | 06.04.2026 | Monday | Easter break (no lecture)    |
 | 7   | 08.04.2026 | Wednesday |  Mid-term exam    |
 | 8   | 13.04.2026 | Monday | Acceleration              |
-| 8   | 15.04.2026 | Wednesday | Constrained Optimization             |
+| 8   | 15.04.2026 | Wednesday | Constrained Optimization  (Francesco Scala)           |
 | 9   | 20.04.2026 | Monday | Lower bounds             |
 | 9   | 22.04.2026 | Wednesday |  Adaptive Optimization Methods     |
 | 10   | 27.04.2026 | Monday |  Non-convex Optimization     |
