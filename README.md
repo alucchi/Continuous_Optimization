@@ -42,13 +42,13 @@ There is no exercise the first week. Please use this time to read the first chap
 | 7   | 08.04.2026 | Wednesday |  Mid-term exam    |
 | 8   | 13.04.2026 | Monday | Acceleration              |
 | 8   | 15.04.2026 | Wednesday | Constrained Optimization  (Francesco Scala)           |
-| 9   | 20.04.2026 | Monday | Lower bounds             |
-| 9   | 22.04.2026 | Wednesday |  Adaptive Optimization Methods     |
-| 10   | 27.04.2026 | Monday |  Non-convex Optimization     |
+| 9   | 20.04.2026 | Monday |  Frank-Wolfe            |
+| 9   | 22.04.2026 | Wednesday |  Lower bounds      |
+| 10   | 27.04.2026 | Monday |  Adaptive Optimization Methods     |
 | 10   | 29.04.2026 | Wednesday |  Non-convex Optimization     |
-| 11   | 04.05.2026 | Monday |  Project work (no lecture)    |
+| 11   | 04.05.2026 | Monday |  Non-convex Optimization    |
 | 11   | 06.05.2026 | Wednesday |  Project work (no lecture)     |
-| 12   | 11.05.2026 | Monday |  Cubic Regularization     |
+| 12   | 11.05.2026 | Monday |   Project work (no lecture)    |
 | 12   | 13.05.2026 | Wednesday |  Project presentation     |
 | 13   | 18.05.2026 | Monday |  Project presentation     |
 | 13   | 20.05.2026 | Wednesday |  Project presentation     |
