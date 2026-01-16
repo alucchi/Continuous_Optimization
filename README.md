@@ -75,7 +75,7 @@ There is no exercise the first week. Please use this time to read the first chap
 |11| 26/05/2025| Monday| Non-convex Optimization | | 
        
 
-## Continuous assessment
+## Continuous assessment (CAs)
 
 Note the following split:
 - 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
@@ -94,10 +94,13 @@ Preliminary dates for continuous assessments (CA):
 
 **A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
 
-## Exam
+## Exams and CAs
 Date for written exam: 7/07/2025: 10:00-12:00, Biozentrum U1.101
 
-Information about the exam: you can bring two two-sided A4 sheets or four one-sided A4 sheets (hand-written or latex).
+Information about the exam:
+Students are allowed to bring either two double-sided A4 sheets or four single-sided A4 sheets of notes (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination, including the mid-term exam, final exam, and continuous assessments (CAs).
+
+Any attempt at fraud or academic misconduct will be reported to the Dean’s Office.
 
 ## Homework
 You have to hand in two homework sheets out of the following three options:
