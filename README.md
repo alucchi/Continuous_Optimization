@@ -32,11 +32,11 @@ There is no exercise the first week. Please use this time to read the first chap
 | 2    | 02.03.2026 | Monday    | Fundamentals               |
 | 2    | 04.03.2026 | Wednesday | Fundamentals               |
 | 3    | 09.03.2026 | Monday    | Gradient Descent               |
-| 3    | 11.03.2026 | Wednesday | Subgradient Descent       |
+| 3    | 11.03.2026 | Wednesday | Subgradient Descent + Q&A|
 | 4    | 16.03.2026 | Monday    | Proximal Algorithms |
 | 4    | 18.03.2026 | Wednesday | Newton's Method     |
 | 5    | 23.03.2026 | Monday    | Derivative-free [Francesco Scala]   |
-| 5    | 25.03.2026 | Wednesday | Stochastic Optimization          |
+| 5    | 25.03.2026 | Wednesday | Stochastic Optimization       +Q&A |
 | 6    | 30.03.2026 | Monday    | Mid-term exam review   |
 | 6    | 01.04.2026 | Wednesday | No lecture               |
 | 7    | 06.04.2026 | Monday    | Easter break (no lecture)    |
@@ -44,7 +44,7 @@ There is no exercise the first week. Please use this time to read the first chap
 | 8    | 13.04.2026 | Monday    | Acceleration              |
 | 8    | 15.04.2026 | Wednesday | Constrained Optimization  [Francesco Scala]    |
 | 9    | 20.04.2026 | Monday    | Frank-Wolfe            |
-| 9    | 22.04.2026 | Wednesday | Lower bounds      |
+| 9    | 22.04.2026 | Wednesday | Lower bounds     +Q&A |
 | 10   | 27.04.2026 | Monday    | Adaptive Optimization Methods     |
 | 10   | 29.04.2026 | Wednesday | Non-convex Optimization    |
 | 11   | 04.05.2026 | Monday    | Non-convex Optimization    |
@@ -61,36 +61,36 @@ There is no exercise the first week. Please use this time to read the first chap
 | Week | Date      | Weekday | Topic                                            | File                                                   |
 |------|-----------|---------|--------------------------------------------------|--------------------------------------------------------|
 |1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       | |
-|2     | 06.03.2026| Friday  | Prerequisites & Fundamentals (Rustem)               | [Exercise 1](Exercises/Exercise_1.pdf)  |
-|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent (Rustem)  |   | 
-|4     | 20.03.2026| Friday  | Proximal Algorithms & Newton's Method (Rustem)   |  | 
-|5     | 27.03.2026| Friday  | Derivative-free & Stochastic Optimization (Rustem)| | 
+|2     | 06.03.2026| Friday  | Prerequisites & Fundamentals [Tin Sum]           | [Exercise 1](Exercises/Exercise_1.pdf)  |
+|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent [Rustem]  |   | 
+|4     | 20.03.2026| Friday  | Proximal Algorithms & Newton's Method [Rustem] + CA  |  | 
+|5     | 27.03.2026| Friday  | Derivative-free & Stochastic Optimization [Rustem]| | 
 |6     | 03.04.2026| Friday  | Easter break (No class)                          | |
-|7     | 10.04.2026| Friday  | Mid-term Exam Solution (Rustem)                  | |
-|8     | 17.04.2026| Friday  | Acceleration & Constrained Optimization (Tin Sum)| | 
-|9     | 24.04.2026| Friday  | Frank-Wolfe & Lower bounds (Tin Sum)             | | 
+|7     | 10.04.2026| Friday  | Mid-term Exam Solution [Rustem]                  | |
+|8     | 17.04.2026| Friday  | Acceleration & Constrained Optimization [Rustem] + CA | | 
+|9     | 24.04.2026| Friday  | Frank-Wolfe & Lower bounds [Tin Sum]             | | 
 |10    | 01.05.2026| Friday  | Labour holiday (No class)                        | | 
-|11    | 08.05.2026| Friday  | Adaptive Optimization Methods & Non-convex Optimization (Tin Sum) || 
+|11    | 08.05.2026| Friday  | Adaptive Optimization Methods & Non-convex Optimization [Tin Sum] + CA || 
 |12    | 15.05.2026| Friday  | Auffahrt (No class)                              | | 
-|13    | 22.05.2026| Friday  | Exam preparation (Tin Sum)                       | |
+|13    | 22.05.2026| Friday  | Exam preparation [Tin Sum]                       | |
 
        
 
 ## Continuous assessment (CAs)
 
 Note the following split:
-- 15% continuous assessment (short exercises and Q&As given during exercise classes, Grading: Best 3/6 normalized)
+- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: Best 3/6 normalized)
 - 20% homework (Grading: Best 2/3 normalized)
 - 30% project (writeup and presentation (for bonus))
 - 35% written exam
 
 Preliminary dates for continuous assessments (CA): 
-1. 03/03/2025 Q&A 
-2. 17/03/2025 CA
-3. 31/03/2025 Q&A
-4. 07/04/2025 CA
-5. 12/05/2025 Q&A (topic: SGD)
-6. 19/05/2025 CA (topic: Acceleration)
+1. 11.03.2026 Wednesday Q&A (Gradient Descent & Subgradient Descent)
+2. 20.03.2026 Friday CA (Proximal Algorithms & Newton's Method)
+3. 25.03.2026 Wednesday Q&A (Derivative-free & Stochastic Optimization)
+4. 17.04.2026 Friday CA (Acceleration & Constrained Optimization)
+5. 22.04.2026 Wednesday Q&A (Frank-Wolfe & Lower bounds)
+6. 08.05.2026 Friday CA (Adaptive Optimization Methods & Non-convex Optimization)
 
 
 **A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
@@ -106,9 +106,9 @@ Any attempt at fraud or academic misconduct will be reported to the Dean’s Off
 ## Homework
 You have to hand in two homework sheets out of the following three options:
 
-1. HW1 Deadline: 24/03/2025
-2. HW2 Deadline: 28/04/2025
-3. HW3 Deadline: 26/05/2025
+1. HW1 Deadline: 22.03.2026 Sunday 23:59
+2. HW2 Deadline: 19.04.2026 Sunday 23:59
+3. HW3 Deadline: 10.05.2026 Sunday 23:59
 
 Each homework is required to be written in Latex using the provided template. The submitted file name should be in form [full name]_hw[n] where n is the index of the exercise.
 
