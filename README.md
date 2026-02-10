@@ -34,15 +34,15 @@ There is no exercise the first week. Please use this time to read the first chap
 | 3    | 09.03.2026 | Monday    | Gradient Descent               |
 | 3    | 11.03.2026 | Wednesday | Subgradient Descent       |
 | 4    | 16.03.2026 | Monday    | Proximal Algorithms |
-| 4    | 18.03.2026 | Wednesday | Newton's method     |
-| 5    | 23.03.2026 | Monday    | Derivative-free (Francesco Scala)   |
+| 4    | 18.03.2026 | Wednesday | Newton's Method     |
+| 5    | 23.03.2026 | Monday    | Derivative-free [Francesco Scala]   |
 | 5    | 25.03.2026 | Wednesday | Stochastic Optimization          |
 | 6    | 30.03.2026 | Monday    | Mid-term exam review   |
 | 6    | 01.04.2026 | Wednesday | No lecture               |
 | 7    | 06.04.2026 | Monday    | Easter break (no lecture)    |
 | 7    | 08.04.2026 | Wednesday | Mid-term exam    |
 | 8    | 13.04.2026 | Monday    | Acceleration              |
-| 8    | 15.04.2026 | Wednesday | Constrained Optimization  (Francesco Scala)    |
+| 8    | 15.04.2026 | Wednesday | Constrained Optimization  [Francesco Scala]    |
 | 9    | 20.04.2026 | Monday    | Frank-Wolfe            |
 | 9    | 22.04.2026 | Wednesday | Lower bounds      |
 | 10   | 27.04.2026 | Monday    | Adaptive Optimization Methods     |
@@ -58,22 +58,22 @@ There is no exercise the first week. Please use this time to read the first chap
 
 ## Exercise schedule (TO BE UPDATED)
 
-| Week     | Date       | Weekday | Topic                                            | File                                                   |
-|----------|------------|---------|--------------------------------------------------|--------------------------------------------------------|
-|1| 27.02.2026| Friday| Fasnachstferien (No class)| |
-|2| 06.03.2026| Friday| Prerequisites (Recap) and Fundamentals| [Prerequisites](https://github.com/alucchi/Continuous_Optimization/blob/main/Exercises/Essential%20Prerequisites%20Review.pdf) |
-|3| 13.03.2026| Friday| Fundamentals|[Exercise 1](Exercises/Exercise_1.pdf) | 
-|4| 20.03.2026| Friday| Gradient Descent | [Exercise 2](Exercises/Exercise_2.pdf) | 
-|5| 27.03.2026| Friday| Subgradient Descent| [Exercise 3](Exercises/Exercise_3_Subgradient_Method.pdf) | 
-|6| 03.04.2026| Friday| Easter break (No class)| |
-|7| 10.04.2026| Friday| Constrained Optimization| [Exercise 4](Exercises/Exercise_4_Constrained_Optimization.pdf)|
-|8| 17.04.2026| Friday| Proximal Algorithms| [Exercise 5](Exercises/Exercise5_Proximal_Gradient_Descent.pdf)| 
-|9| 24.04.2026| Friday| Newton's Method|  [Exercise 6](Exercises/Exercise6_Newton_method.pdf)| 
-|10| 01.05.2026| Friday| Labour holiday (No seminar)| | 
-|11| 08.05.2026| Friday| Stochastic Optimization|[Exercise 7](Exercises/Exercise7_Stochastic_Optimization.pdf) | 
-|12| 15.05.2026| Friday|  Auffahrt (No class)| | 
-|13| 22.05.2026| Friday| Acceleration| [Exercise 8](Exercises/Exercise8_Acceleration.pdf)|
-|??| ??.??.2026| Friday| Adaptive Optimization Methods|[Exercise 9](Exercises/exercise9_Adaptive_Methods.pdf) | 
+| Week | Date      | Weekday | Topic                                            | File                                                   |
+|------|-----------|---------|--------------------------------------------------|--------------------------------------------------------|
+|1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       | |
+|2     | 06.03.2026| Friday  | Prerequisites & Fundamentals (Rustem)               | [Exercise 1](Exercises/Exercise_1.pdf)  |
+|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent (Rustem)  |   | 
+|4     | 20.03.2026| Friday  | Proximal Algorithms & Newton's Method (Rustem)   |  | 
+|5     | 27.03.2026| Friday  | Derivative-free & Stochastic Optimization (Rustem)| | 
+|6     | 03.04.2026| Friday  | Easter break (No class)                          | |
+|7     | 10.04.2026| Friday  | Mid-term Exam Solution (Rustem)                  | |
+|8     | 17.04.2026| Friday  | Acceleration & Constrained Optimization (Tin Sum)| | 
+|9     | 24.04.2026| Friday  | Frank-Wolfe & Lower bounds (Tin Sum)             | | 
+|10    | 01.05.2026| Friday  | Labour holiday (No class)                        | | 
+|11    | 08.05.2026| Friday  | Adaptive Optimization Methods & Non-convex Optimization (Tin Sum) || 
+|12    | 15.05.2026| Friday  | Auffahrt (No class)                              | | 
+|13    | 22.05.2026| Friday  | Exam preparation (Tin Sum)                       | |
+
        
 
 ## Continuous assessment (CAs)
