@@ -21,6 +21,27 @@ There is no exercise the first week. Please use this time to read the first chap
 
 &nbsp;
 
+## Overall schedule
+
+| Week | Monday     | Wednesday   | Friday              |
+|------|------------|-------------|----------------------------|
+|0     | - | Introduction  | -           | 
+|1     | *Fasnachstferien (No class)* | *Fasnachstferien (No class)*                       |  *Fasnachstferien (No class)* |
+|2     | Fundamentals| Fundamentals  | Exercise (Prerequisites & Fundamentals) [Tin Sum]           |
+|3     | Gradient Descent| Subgradient Descent + Q&A  | Exercise (Gradient Descent) & Subgradient Descent [Rustem]   
+|4     | Proximal Algorithms| Newton's Method  | ?? + CA  |  
+|5     | Derivative-free [Francesco Scala]| Stochastic Optimization       +Q&A| ?? [Rustem]| 
+|6     | Mid-term exam review| ??  | *Easter break (No class)*                          | 
+|7     | *Easter break (no lecture)*| **Mid-term exam**  | Mid-term Exam Solution [Tin Sum]                  | 
+|8     | Acceleration| Constrained Optimization  [Francesco Scala]  | Exercise: Acceleration  + CA |
+|9     | Frank-Wolfe| Lower bounds  | Exercise (Constrained Optimization)  [Tin Sum]             | 
+|10    | Adaptive Optimization Methods| Non-convex Optimization  | *Labour holiday (No class)*                       | 
+|11    | Non-convex Optimization| Exercise (Frank-Wolfe)  | Exercise(Adaptive Optimization Methods)  + CA |
+|12    | Exercise (Non-convex Optimization) | Project presentation    | *Auffahrt (No class)*            | 
+|13    |Project presentation  | Project presentation    | Exam Preparation [Tin Sum]     | 
+|14    |  *Pfingstmontag (no lecture)* | Review (exam preparation)   | -  | 
+
+
 ## Lecture schedule
 
 | Week | Date       | Weekday   | Topic                      |
@@ -74,7 +95,21 @@ There is no exercise the first week. Please use this time to read the first chap
 |13    | 22.05.2026| Friday  | Exam Preparation [Tin Sum]                       | |
 
 
-## Continuous Assessments (in lecture/class)
+
+
+
+## Scoring Scheme
+
+Note the following split:
+- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: Best 3/6 normalized)
+- 25% mid-term exam (written) 
+- 25% project (in-class presentation 10%, written report 10%, final zoom presentation 5%)
+- 35% final exam (written)
+
+
+**A 50% score on mid-term exam is required to participate in the final exam. A 50% score on the final exam is required to pass the class.**
+
+## Continuous Assessments (in lecture/class) (TO BE UPDATED)
 
 Preliminary dates for continuous assessments (CA): 
 1. 11.03.2026 Wednesday Q&A (Gradient Descent & Subgradient Descent)
@@ -84,17 +119,8 @@ Preliminary dates for continuous assessments (CA):
 5. 22.04.2026 Wednesday Q&A (Frank-Wolfe & Lower bounds)
 6. 08.05.2026 Friday CA (Adaptive Optimization Methods & Non-convex Optimization)
 
-## Scoring Scheme
-
-Note the following split:
-- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: Best 3/6 normalized)
-- 20% Mid-term written exam 
-- 30% project (writeup and presentation (for bonus))
-- 35% final written exam
-
-**TODO: change this line! A 50% score on HW sets is required to participate in the final exam. A 50% score on the exam is required to pass the class.**
-
-## Final Written Exams 
+## Mid-Term & Final Written Exams 
+Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
 Date for the final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101
 
 Information about the exam:
@@ -102,32 +128,23 @@ Students are allowed to bring either two double-sided A4 sheets or four single-s
 
 Any attempt at fraud or academic misconduct will be reported to the Dean’s Office.
 
-```
-## Homework
-You have to hand in two homework sheets out of the following three options:
-
-1. HW1 Deadline: 22.03.2026 Sunday 23:59
-2. HW2 Deadline: 19.04.2026 Sunday 23:59
-3. HW3 Deadline: 10.05.2026 Sunday 23:59
-
-Each homework is required to be written in Latex using the provided template. The submitted file name should be in form [full name]_hw[n] where n is the index of the exercise.
-
-**Note:** Each homework is equally weighted. Any homework that is sent late will not be graded and will be worth no credit. 
-
-> Please mention the following declaration regarding the use of AI in your submitted copies.
-
-*"I have taken note of the fact that in the event of justified suspicion of the unauthorized or undisclosed use of AI in written assessments, I am upon request obligated to cooperate in confirming or ruling out the suspicion, for example by attending an interview."*
-
-```
 
 ## Projects
 Projects have to be completed within a group of 2-3 students. Two types of projects you can pursue are:
 1) A novel and sound solution to a problem discussed in the class
 2) Thorough theoretical analysis of an existing deep learning approach discussed in the class
 Students cannot use their own published work as the course project.
-**TODO: change this line!** Deadline: 21/07/2025 12:00 Bern time 
+
+In-class presentation: 13.05.2026 Wednesday, 18.05.2026 Monday, 20.05.2026 Wednesday
+Written report and final zoom presentation deadline: 21.07.2026 12:00 Basel time 
 Submission: on ADAM
 Link to project description: [here](Projects/Continuous_Optimization_2025_Projects.pdf)
+
+
+
+
+
+
 
 
 
