@@ -27,19 +27,20 @@ There is no exercise the first week. Please use this time to read the first chap
 |------|------------|-------------|----------------------------|
 |0     | - | Introduction  | -           | 
 |1     | *Fasnachstferien (No class)* | *Fasnachstferien (No class)*                       |  *Fasnachstferien (No class)* |
-|2     | Fundamentals| Fundamentals  | Exercise (Prerequisites & Fundamentals) [Tin Sum]           |
-|3     | Gradient Descent| Subgradient Descent + Q&A  | Exercise (Gradient Descent) & Subgradient Descent [Rustem]   
-|4     | Proximal Algorithms| Newton's Method  | ?? + CA  |  
-|5     | Derivative-free [Francesco Scala]| Stochastic Optimization       +Q&A| ?? [Rustem]| 
-|6     | Mid-term exam review| ??  | *Easter break (No class)*                          | 
+|2     | Fundamentals| Fundamentals  | Exercise Prerequisites & Fundamentals [Tin Sum]           |
+|3     | Gradient Descent| Subgradient Descent + Q&A  | Exercise Gradient Descent & Subgradient Descent [Rustem]   
+|4     | Proximal Algorithms| Newton's Method  | Exercise Proximal Algorithms + CA  |  
+|5     | Derivative-free [Francesco Scala]| Stochastic Optimization       | Exercise Newton +Q&A [Rustem]| 
+|6     | Mid-term exam review| Exercise Derivative-free  | *Easter break (No class)*                          | 
 |7     | *Easter break (no lecture)*| **Mid-term exam**  | Mid-term Exam Solution [Tin Sum]                  | 
-|8     | Acceleration| Constrained Optimization  [Francesco Scala]  | Exercise: Acceleration  + CA |
-|9     | Frank-Wolfe| Lower bounds  | Exercise (Constrained Optimization)  [Tin Sum]             | 
+|8     | Acceleration| Constrained Optimization  [Francesco Scala]  | Exercise Stochastic Optimization  + CA |
+|9     | Frank-Wolfe| Exercise Acceleration  | Exercise Constrained Optimization  [Tin Sum]             | 
 |10    | Adaptive Optimization Methods| Non-convex Optimization  | *Labour holiday (No class)*                       | 
-|11    | Non-convex Optimization| Exercise (Frank-Wolfe)  | Exercise(Adaptive Optimization Methods)  + CA |
-|12    | Exercise (Non-convex Optimization) | Project presentation    | *Auffahrt (No class)*            | 
+|11    | Non-convex Optimization| Exercise Frank-Wolfe  | Exercise Adaptive Optimization Methods  + CA |
+|12    | Exercise Non-convex Optimization | Project presentation    | *Auffahrt (No class)*            | 
 |13    |Project presentation  | Project presentation    | Exam Preparation [Tin Sum]     | 
 |14    |  *Pfingstmontag (no lecture)* | Review (exam preparation)   | -  | 
+
 
 
 ## Lecture schedule
