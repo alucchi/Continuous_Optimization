@@ -94,7 +94,7 @@ There is no exercise the first week. Please use this time to read the first chap
 |9     | 24.04.2026| Friday  | Constrained Optimization    + CA [Tin Sum]        | | 
 |10    | 01.05.2026| Friday  | Labour holiday (No class)                        | | 
 |11    | 06.05.2026| Wednesday|  Frank-Wolfe [Tin Sum]                           |  |
-|11    | 08.05.2026| Friday  | Adaptive Optimization Methods  [Timur]              || 
+|11    | 08.05.2026| Friday  | Adaptive Optimization Methods  [Rustem]              || 
 |12    | 11.05.2026| Monday  | Non-convex Optimization  + CA [Rustem]             ||
 |12    | 15.05.2026| Friday  | Auffahrt (No class)                                 | | 
 |13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                          | |
