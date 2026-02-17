@@ -125,8 +125,8 @@ Preliminary dates for continuous assessments (CA):
 6. 11.05.2026 Monday CA (Non-convex Optimization)
 
 ## Mid-Term & Final Written Exams 
-Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
-Date for the final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101
+- Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
+- Date for the final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101
 
 Information about the exam:
 Students are allowed to bring either two double-sided A4 sheets or four single-sided A4 sheets of notes (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination, including the mid-term exam, final exam, and continuous assessments (CAs).
@@ -148,9 +148,9 @@ Link to project description: [here](Projects/Continuous_Optimization_2025_Projec
 dates: 13.05.2026 Wednesday, 18.05.2026 Monday, 20.05.2026 Wednesday
 Groups will be arranged to hold their in-class presentation (15-20 min long) about their progress in the projects, including:
 
-i) introduction (motivation, goal ...) [~ 6-7 min]
-ii) Related Work [~6-7 min]
-iii) Methodology, results in progress [~3-6 min]
+1. introduction (motivation, goal ...) [~ 6-7 min]
+2. Related Work [~6-7 min]
+3. Methodology, results in progress [~3-6 min]
 
 ### Final Report
 deadline: 21.07.2026 12:00 Basel time on ADAM
