@@ -142,7 +142,7 @@ Students cannot use their own published work as the course project.
 
 The performance on the in-class presentation, final report and the final recorded presentation will be graded equally for each member in the group.
 
-Link to project description: [here](Projects/Continuous_Optimization_2025_Projects.pdf)
+Link to project description: [here](Continuous_Optimization_2026_Projects.pdf)
 
 ### In-class presentation
 dates: 13.05.2026 Wednesday, 18.05.2026 Monday, 20.05.2026 Wednesday
