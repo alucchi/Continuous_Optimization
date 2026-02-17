@@ -147,9 +147,10 @@ Link to project description: [here](Projects/Continuous_Optimization_2025_Projec
 ### In-class presentation
 dates: 13.05.2026 Wednesday, 18.05.2026 Monday, 20.05.2026 Wednesday
 Groups will be arranged to hold their in-class presentation (15-20 min long) about their progress in the projects, including:
-i) introduction (motivation, goal ...)
-ii) Related Work
-iii) Methodology, results in progress
+
+i) introduction (motivation, goal ...) [~ 6-7 min]
+ii) Related Work [~6-7 min]
+iii) Methodology, results in progress [~3-6 min]
 
 ### Final Report
 deadline: 21.07.2026 12:00 Basel time on ADAM
