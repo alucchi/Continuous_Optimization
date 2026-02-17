@@ -154,7 +154,7 @@ Groups will be arranged to hold their in-class presentation (15-20 min long) abo
 
 ### Final Report
 deadline: 21.07.2026 12:00 Basel time on ADAM
-Final report should be written in a [conference paper format](https://arxiv.org/html/2505.10292v1). It may only be up to **nine pages long**, including figures. Additional pages containing references, checklist, and the optional technical appendices do not count as content pages. 
+Final report should be written in a [conference paper format](https://arxiv.org/html/2505.10292v1). It may only be up to **eight pages long**, including figures. Additional pages containing references, checklist, and the optional technical appendices do not count as content pages. 
 
 ### Final Recorded Presentation
 deadline: 21.07.2026 12:00 Basel time on ADAM
