@@ -79,25 +79,25 @@ There is no exercise the first week. Please use this time to read the first chap
 
 ## Exercise class schedule 
 
-| Week | Date      | Weekday | Topic                                            | File                                                   |
-|------|-----------|---------|--------------------------------------------------|--------------------------------------------------------|
-|1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       | |
-|2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & Fundamentals [Tin Sum]           |  |
-|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent + CA [Tin Sum]  |   | 
-|4     | 20.03.2026| Friday  | Proximal Algorithms     [Tin Sum]                |  | 
-|5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | | 
-|6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        | |
-|6     | 03.04.2026| Friday  | Easter break (No class)                          | |
-|7     | 10.04.2026| Friday  | Stochastic Optimization   [Rustem]                | |
-|8     | 17.04.2026| Friday  | Mid-term Exam Solution [Rustem]                   | | 
-|9     | 22.04.2026| Wednesday| Acceleration [Rustem]                           |  |
-|9     | 24.04.2026| Friday  | Constrained Optimization    + CA [Tin Sum]        | | 
-|10    | 01.05.2026| Friday  | Labour holiday (No class)                        | | 
-|11    | 06.05.2026| Wednesday|  Frank-Wolfe [Tin Sum]                           |  |
-|11    | 08.05.2026| Friday  | Adaptive Optimization Methods  [Rustem]              || 
-|12    | 11.05.2026| Monday  | Non-convex Optimization  + CA [Rustem]             ||
-|12    | 15.05.2026| Friday  | Auffahrt (No class)                                 | | 
-|13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                          | |
+| Week | Date      | Weekday | Topic                                            |
+|------|-----------|---------|--------------------------------------------------|
+|1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       |
+|2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & Fundamentals [Tin Sum]           | 
+|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent + CA [Tin Sum]  |   
+|4     | 20.03.2026| Friday  | Proximal Algorithms     [Tin Sum]                |   
+|5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | 
+|6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        |
+|6     | 03.04.2026| Friday  | Easter break (No class)                          |
+|7     | 10.04.2026| Friday  | Stochastic Optimization   [Rustem]                | 
+|8     | 17.04.2026| Friday  | Mid-term Exam Solution [Rustem]                   | 
+|9     | 22.04.2026| Wednesday| Acceleration [Rustem]                           | 
+|9     | 24.04.2026| Friday  | Constrained Optimization    + CA [Tin Sum]        | 
+|10    | 01.05.2026| Friday  | Labour holiday (No class)                        | 
+|11    | 06.05.2026| Wednesday|  Frank-Wolfe [Tin Sum]                           |
+|11    | 08.05.2026| Friday  | Adaptive Optimization Methods  [Rustem]              |
+|12    | 11.05.2026| Monday  | Non-convex Optimization  + CA [Rustem]             |
+|12    | 15.05.2026| Friday  | Auffahrt (No class)                                 | 
+|13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                          | 
 
 
 
