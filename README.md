@@ -122,9 +122,9 @@ Preliminary dates for continuous assessments (CA):
 1. 11.03.2026 Wednesday Q&A (Prerequisite)
 2. 20.03.2026 Friday CA (Fundamentals)
 3. 25.03.2026 Wednesday Q&A (Subgradient Descent)
-4. 24.04.2026 Friday CA (Acceleration)
-5. 29.04.2026 Wednedday Q&A (Constrained Optimization)
-6. 08.05.2026 Friday CA (Frank-Wolfe)
+4. 24.04.2026 Friday CA (Stochastic Optimization)
+5. 29.04.2026 Wednesday Q&A (Acceleration)
+6. 08.05.2026 Friday CA (Constrained Optimization)
 
 ## Mid-Term & Final Written Exams 
 - Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
