@@ -119,7 +119,7 @@ Note the following split:
 QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math).
 
 Preliminary dates for continuous assessments (CA): 
-1. 02.03.2026 Wednesday Q&A (Prerequisite)
+1. 04.03.2026 Wednesday Q&A (Prerequisite)
 2. 13.03.2026 Friday CA (Gradient Descent)
 3. 25.03.2026 Wednesday Q&A (Stochastic Optimization)
 4. 24.04.2026 Friday CA (Constrained Optimization)
