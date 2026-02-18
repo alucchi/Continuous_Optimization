@@ -27,9 +27,9 @@ There is no exercise the first week. Please use this time to read the first chap
 |------|-------------------------------|-------------------------------|-------------------------------|
 |0     | -                             | Introduction                  | -                             | 
 |1     | *Fasnachstferien (No class)*  | *Fasnachstferien (No class)*  |  *Fasnachstferien (No class)* |
-|2     | Fundamentals                  | Fundamentals                  | Exercise Prerequisites & Fundamentals |
-|3     | Gradient Descent              | Subgradient Descent + Q&A     | Exercise Gradient Descent & Subgradient Descent  |
-|4     | Proximal Algorithms           | Newton's Method               | Exercise Proximal Algorithms + CA  |  
+|2     | Fundamentals                  | Fundamentals + Q&A            | Exercise Prerequisites & Fundamentals |
+|3     | Gradient Descent              | Subgradient Descent           | Exercise Gradient Descent & Subgradient Descent + CA  |
+|4     | Proximal Algorithms           | Newton's Method               | Exercise Proximal Algorithms   |  
 |5     | Derivative-free               | Stochastic Optimization +Q&A  | Exercise Newton                | 
 |6     | Mid-term exam review          | Exercise Derivative-free      | *Easter break (No class)*     | 
 |7     | *Easter break (no lecture)*   | **Mid-term exam**             | Exercise Stochastic Optimization| 
@@ -50,10 +50,10 @@ There is no exercise the first week. Please use this time to read the first chap
 | 0    | 18.02.2026 | Wednesday | Introduction               |
 | 1    | 23.02.2026 | Monday    | *Fasnachstferien (No lecture)*   |
 | 1    | 25.02.2026 | Wednesday | *Fasnachstferien (No lecture)*   |
-| 2    | 02.03.2026 | Monday    | Fundamentals               |
-| 2    | 04.03.2026 | Wednesday | Fundamentals               |
+| 2    | 02.03.2026 | Monday    | Fundamentals            |
+| 2    | 04.03.2026 | Wednesday | Fundamentals      + Q&A     |
 | 3    | 09.03.2026 | Monday    | Gradient Descent         |
-| 3    | 11.03.2026 | Wednesday | Subgradient Descent + Q&A|
+| 3    | 11.03.2026 | Wednesday | Subgradient Descent |
 | 4    | 16.03.2026 | Monday    | Proximal Algorithms |
 | 4    | 18.03.2026 | Wednesday | Newton's Method     |
 | 5    | 23.03.2026 | Monday    | Derivative-free [Francesco Scala]   |
@@ -82,9 +82,9 @@ There is no exercise the first week. Please use this time to read the first chap
 | Week | Date      | Weekday | Topic                                            | File                                                   |
 |------|-----------|---------|--------------------------------------------------|--------------------------------------------------------|
 |1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       | |
-|2     | 06.03.2026| Friday  | Prerequisites & Fundamentals [Tin Sum]           | [Exercise 1](Exercises/Exercise_1.pdf)  |
-|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent [Tin Sum]  |   | 
-|4     | 20.03.2026| Friday  | Proximal Algorithms + CA [Tin Sum]                |  | 
+|2     | 06.03.2026| Friday  | Prerequisites & Fundamentals [Tin Sum]           |  |
+|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent + CA [Tin Sum]  |   | 
+|4     | 20.03.2026| Friday  | Proximal Algorithms     [Tin Sum]                |  | 
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | | 
 |6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        | |
 |6     | 03.04.2026| Friday  | Easter break (No class)                          | |
@@ -117,8 +117,8 @@ Note the following split:
 ## Continuous Assessments (in lecture/class) 
 
 Preliminary dates for continuous assessments (CA): 
-1. 11.03.2026 Wednesday Q&A (Subgradient Descent)
-2. 20.03.2026 Friday CA (Proximal Algorithms)
+1. 02.03.2026 Wednesday Q&A (Prerequisite)
+2. 13.03.2026 Friday CA (Gradient Descent)
 3. 25.03.2026 Wednesday Q&A (Stochastic Optimization)
 4. 24.04.2026 Friday CA (Constrained Optimization)
 5. 27.04.2026 Monday Q&A (Adaptive Optimization Methods)
