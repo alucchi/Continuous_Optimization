@@ -27,17 +27,17 @@ There is no exercise the first week. Please use this time to read the first chap
 |------|-------------------------------|-------------------------------|-------------------------------|
 |0     | -                             | Introduction                  | -                             | 
 |1     | *Fasnachstferien (No class)*  | *Fasnachstferien (No class)*  |  *Fasnachstferien (No class)* |
-|2     | Fundamentals                  | Fundamentals + Q&A            | Exercise Introduction & Fundamentals |
-|3     | Gradient Descent              | Subgradient Descent           | Exercise Gradient Descent & Subgradient Descent + CA  |
-|4     | Proximal Algorithms           | Newton's Method               | Exercise Proximal Algorithms   |  
+|2     | Fundamentals                  | Fundamentals                  | Exercise Introduction & Fundamentals |
+|3     | Gradient Descent              | Subgradient Descent + Q&A     | Exercise Gradient Descent & Subgradient Descent  |
+|4     | Proximal Algorithms           | Newton's Method               | Exercise Proximal Algorithms + CA  |  
 |5     | Derivative-free               | Stochastic Optimization +Q&A  | Exercise Newton                | 
 |6     | Mid-term exam review          | Exercise Derivative-free      | *Easter break (No class)*     | 
 |7     | *Easter break (no lecture)*   | **Mid-term exam**             | Exercise Stochastic Optimization| 
-|8     | Acceleration                  | Constrained Optimization      | Mid-term Exam Solution        |
+|8     | Acceleration                  | Constrained Optimization      | Mid-term Exam Solution         |
 |9     | Frank-Wolfe                   | Exercise Acceleration         | Exercise Constrained Optimization + CA  | 
-|10    | Adaptive Optimization Methods + Q&A | Non-convex Optimization | *Labour holiday (No class)*   | 
-|11    | Non-convex Optimization       | Exercise Frank-Wolfe          | Exercise Adaptive Optimization Methods   |
-|12    | Exercise Non-convex Optimization + CA | Project presentation  | *Auffahrt (No class)*         | 
+|10    | Adaptive Optimization Methods | Non-convex Optimization + Q&A| *Labour holiday (No class)*   | 
+|11    | Non-convex Optimization       | Exercise Frank-Wolfe          | Exercise Adaptive Optimization Methods + CA   |
+|12    | Exercise Non-convex Optimization | Project presentation  | *Auffahrt (No class)*         | 
 |13    | Project presentation          | Project presentation          | Exam Preparation [Tin Sum]    | 
 |14    | *Pfingstmontag (No lecture)*  | Review (exam preparation)     | -                             | 
 
@@ -51,9 +51,9 @@ There is no exercise the first week. Please use this time to read the first chap
 | 1    | 23.02.2026 | Monday    | *Fasnachstferien (No lecture)*   |
 | 1    | 25.02.2026 | Wednesday | *Fasnachstferien (No lecture)*   |
 | 2    | 02.03.2026 | Monday    | Fundamentals            |
-| 2    | 04.03.2026 | Wednesday | Fundamentals      + Q&A     |
+| 2    | 04.03.2026 | Wednesday | Fundamentals          |
 | 3    | 09.03.2026 | Monday    | Gradient Descent         |
-| 3    | 11.03.2026 | Wednesday | Subgradient Descent |
+| 3    | 11.03.2026 | Wednesday | Subgradient Descent + Q&A|
 | 4    | 16.03.2026 | Monday    | Proximal Algorithms |
 | 4    | 18.03.2026 | Wednesday | Newton's Method     |
 | 5    | 23.03.2026 | Monday    | Derivative-free [Francesco Scala]   |
@@ -66,8 +66,8 @@ There is no exercise the first week. Please use this time to read the first chap
 | 8    | 15.04.2026 | Wednesday | Constrained Optimization  [Francesco Scala]    |
 | 9    | 20.04.2026 | Monday    | Frank-Wolfe           |
 | 9    | 22.04.2026 | Wednesday | *changed to exercise class (see below)*   |
-| 10   | 27.04.2026 | Monday    | Adaptive Optimization Methods  + Q&A     |
-| 10   | 29.04.2026 | Wednesday | Non-convex Optimization    |
+| 10   | 27.04.2026 | Monday    | Adaptive Optimization Methods       |
+| 10   | 29.04.2026 | Wednesday | Non-convex Optimization +Q&A |
 | 11   | 04.05.2026 | Monday    | Non-convex Optimization    |
 | 11   | 06.05.2026 | Wednesday | *changed to exercise class (see below)*  |
 | 12   | 11.05.2026 | Monday    | *changed to exercise class (see below)*  |
@@ -83,8 +83,8 @@ There is no exercise the first week. Please use this time to read the first chap
 |------|-----------|---------|--------------------------------------------------|
 |1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       |
 |2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & Fundamentals [Tin Sum]           | 
-|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent + CA [Tin Sum]  |   
-|4     | 20.03.2026| Friday  | Proximal Algorithms     [Tin Sum]                |   
+|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent [Tin Sum]  |   
+|4     | 20.03.2026| Friday  | Proximal Algorithms + CA  [Tin Sum]                |   
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | 
 |6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        |
 |6     | 03.04.2026| Friday  | Easter break (No class)                          |
@@ -93,9 +93,9 @@ There is no exercise the first week. Please use this time to read the first chap
 |9     | 22.04.2026| Wednesday| Acceleration [Rustem]                           | 
 |9     | 24.04.2026| Friday  | Constrained Optimization    + CA [Tin Sum]        | 
 |10    | 01.05.2026| Friday  | Labour holiday (No class)                        | 
-|11    | 06.05.2026| Wednesday|  Frank-Wolfe [Tin Sum]                           |
-|11    | 08.05.2026| Friday  | Adaptive Optimization Methods  [Rustem]              |
-|12    | 11.05.2026| Monday  | Non-convex Optimization  + CA [Rustem]             |
+|11    | 06.05.2026| Wednesday|  Frank-Wolfe  [Tin Sum]                           |
+|11    | 08.05.2026| Friday  | Adaptive Optimization Methods + CA  [Rustem]              |
+|12    | 11.05.2026| Monday  | Non-convex Optimization   [Rustem]             |
 |12    | 15.05.2026| Friday  | Auffahrt (No class)                                 | 
 |13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                          | 
 
@@ -119,12 +119,12 @@ Note the following split:
 QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math).
 
 Preliminary dates for continuous assessments (CA): 
-1. 04.03.2026 Wednesday Q&A (Prerequisite)
-2. 13.03.2026 Friday CA (Gradient Descent)
-3. 25.03.2026 Wednesday Q&A (Stochastic Optimization)
-4. 24.04.2026 Friday CA (Constrained Optimization)
-5. 27.04.2026 Monday Q&A (Adaptive Optimization Methods)
-6. 11.05.2026 Monday CA (Non-convex Optimization)
+1. 11.03.2026 Wednesday Q&A (Prerequisite)
+2. 20.03.2026 Friday CA (Fundamentals)
+3. 25.03.2026 Wednesday Q&A (Subgradient Descent)
+4. 24.04.2026 Friday CA (Acceleration)
+5. 29.04.2026 Wednedday Q&A (Constrained Optimization)
+6. 08.05.2026 Friday CA (Frank-Wolfe)
 
 ## Mid-Term & Final Written Exams 
 - Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
