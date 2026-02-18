@@ -27,7 +27,7 @@ There is no exercise the first week. Please use this time to read the first chap
 |------|-------------------------------|-------------------------------|-------------------------------|
 |0     | -                             | Introduction                  | -                             | 
 |1     | *Fasnachstferien (No class)*  | *Fasnachstferien (No class)*  |  *Fasnachstferien (No class)* |
-|2     | Fundamentals                  | Fundamentals + Q&A            | Exercise Prerequisites & Fundamentals |
+|2     | Fundamentals                  | Fundamentals + Q&A            | Exercise Introduction & Fundamentals |
 |3     | Gradient Descent              | Subgradient Descent           | Exercise Gradient Descent & Subgradient Descent + CA  |
 |4     | Proximal Algorithms           | Newton's Method               | Exercise Proximal Algorithms   |  
 |5     | Derivative-free               | Stochastic Optimization +Q&A  | Exercise Newton                | 
@@ -82,7 +82,7 @@ There is no exercise the first week. Please use this time to read the first chap
 | Week | Date      | Weekday | Topic                                            | File                                                   |
 |------|-----------|---------|--------------------------------------------------|--------------------------------------------------------|
 |1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       | |
-|2     | 06.03.2026| Friday  | [Prerequisites](ex0_prerequisites.pdf) & Fundamentals [Tin Sum]           |  |
+|2     | 06.03.2026| Friday  | [Introduciton](ex1_introduction.pdf) & Fundamentals [Tin Sum]           |  |
 |3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent + CA [Tin Sum]  |   | 
 |4     | 20.03.2026| Friday  | Proximal Algorithms     [Tin Sum]                |  | 
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | | 
