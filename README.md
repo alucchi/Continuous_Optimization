@@ -1,4 +1,4 @@
-# Continuous Optimization
+# Continuous Optimization (2026)
 
 The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf).
 
