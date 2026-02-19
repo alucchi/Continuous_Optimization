@@ -37,7 +37,7 @@ There is no exercise the first week. Please use this time to read the first chap
 |9     | Frank-Wolfe                   | Exercise Acceleration         | Exercise Constrained Optimization + CA  | 
 |10    | Adaptive Optimization Methods | Non-convex Optimization + Q&A| *Labour holiday (No class)*   | 
 |11    | Non-convex Optimization       | Exercise Frank-Wolfe          | Exercise Adaptive Optimization Methods + CA   |
-|12    | Exercise Non-convex Optimization | Project presentation  | *Auffahrt (No class)*         | 
+|12    | Exercise Non-convex Optimization | Project presentation       | *Auffahrt (No class)*         | 
 |13    | Project presentation          | Project presentation          | Exam Preparation [Tin Sum]    | 
 |14    | *Pfingstmontag (No lecture)*  | Review (exam preparation)     | -                             | 
 
@@ -81,23 +81,23 @@ There is no exercise the first week. Please use this time to read the first chap
 
 | Week | Date      | Weekday | Topic                                            |
 |------|-----------|---------|--------------------------------------------------|
-|1     | 27.02.2026| Friday  | Fasnachstferien (No class)                       |
+|1     | 27.02.2026| Friday  | *Fasnachstferien (No class)*                     |
 |2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & Fundamentals [Tin Sum]           | 
 |3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent [Tin Sum]  |   
 |4     | 20.03.2026| Friday  | Proximal Algorithms + CA  [Tin Sum]                |   
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | 
 |6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        |
-|6     | 03.04.2026| Friday  | Easter break (No class)                          |
+|6     | 03.04.2026| Friday  | *Easter break (No class)*                        |
 |7     | 10.04.2026| Friday  | Stochastic Optimization   [Rustem]                | 
 |8     | 17.04.2026| Friday  | Mid-term Exam Solution [Rustem]                   | 
 |9     | 22.04.2026| Wednesday| Acceleration [Rustem]                           | 
 |9     | 24.04.2026| Friday  | Constrained Optimization    + CA [Tin Sum]        | 
-|10    | 01.05.2026| Friday  | Labour holiday (No class)                        | 
+|10    | 01.05.2026| Friday  | *Labour holiday (No class)*                      | 
 |11    | 06.05.2026| Wednesday|  Frank-Wolfe  [Tin Sum]                           |
-|11    | 08.05.2026| Friday  | Adaptive Optimization Methods + CA  [Rustem]              |
-|12    | 11.05.2026| Monday  | Non-convex Optimization   [Rustem]             |
-|12    | 15.05.2026| Friday  | Auffahrt (No class)                                 | 
-|13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                          | 
+|11    | 08.05.2026| Friday  | Adaptive Optimization Methods + CA  [Rustem]          |
+|12    | 11.05.2026| Monday  | Non-convex Optimization   [Rustem]              |
+|12    | 15.05.2026| Friday  | *Auffahrt (No class)*                           | 
+|13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                       | 
 
 
 
@@ -119,12 +119,12 @@ Note the following split:
 QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math).
 
 Preliminary dates for continuous assessments (CA): 
-1. 11.03.2026 Wednesday Q&A (Prerequisite)
-2. 20.03.2026 Friday CA (Fundamentals)
-3. 25.03.2026 Wednesday Q&A (Subgradient Descent)
-4. 24.04.2026 Friday CA (Stochastic Optimization)
-5. 29.04.2026 Wednesday Q&A (Acceleration)
-6. 08.05.2026 Friday CA (Constrained Optimization)
+1. 11.03.2026 Wednesday Q&A1 (Prerequisite)
+2. 20.03.2026 Friday CA1 (Fundamentals)
+3. 25.03.2026 Wednesday Q&A2 (Subgradient Descent)
+4. 24.04.2026 Friday CA2 (Stochastic Optimization)
+5. 29.04.2026 Wednesday Q&A3 (Acceleration)
+6. 08.05.2026 Friday CA3 (Constrained Optimization)
 
 ## Mid-Term & Final Written Exams 
 - Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
