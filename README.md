@@ -13,7 +13,8 @@ Monday, 14.15-16.00
 Spiegelgasse 1, Seminarraum 00.003
 
 Friday, 14.15-16.00
-Spiegelgasse 1, Seminarraum U1.001
+Bernoullistrasse 30/32, Hörsaal 103
+~~Spiegelgasse 1, Seminarraum U1.001~~
 
 ## Prerequisites
 There is no exercise the first week. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
