@@ -28,7 +28,7 @@ There is no exercise the first week. Please use this time to read the first chap
 |0     | -                             | Introduction                  | -                             | 
 |1     | *Fasnachstferien (No class)*  | *Fasnachstferien (No class)*  |  *Fasnachstferien (No class)* |
 |2     | Fundamentals                  | Fundamentals                  | Exercise Introduction & Fundamentals |
-|3     | Gradient Descent              | Subgradient Descent + Q&A     | Exercise Gradient Descent & Subgradient Descent  |
+|3     | Gradient Descent              | Subgradient Method + Q&A     | Exercise Gradient Descent & Subgradient Method  |
 |4     | Proximal Algorithms           | Newton's Method               | Exercise Proximal Algorithms + CA  |  
 |5     | Derivative-free               | Stochastic Optimization +Q&A  | Exercise Newton                | 
 |6     | Mid-term exam review          | Exercise Derivative-free      | *Easter break (No class)*     | 
@@ -53,7 +53,7 @@ There is no exercise the first week. Please use this time to read the first chap
 | 2    | 02.03.2026 | Monday    | Fundamentals            |
 | 2    | 04.03.2026 | Wednesday | Fundamentals          |
 | 3    | 09.03.2026 | Monday    | Gradient Descent         |
-| 3    | 11.03.2026 | Wednesday | Subgradient Descent + Q&A|
+| 3    | 11.03.2026 | Wednesday | Subgradient Method + Q&A|
 | 4    | 16.03.2026 | Monday    | Proximal Algorithms |
 | 4    | 18.03.2026 | Wednesday | Newton's Method     |
 | 5    | 23.03.2026 | Monday    | Derivative-free [Francesco Scala]   |
@@ -83,7 +83,7 @@ There is no exercise the first week. Please use this time to read the first chap
 |------|-----------|---------|--------------------------------------------------|
 |1     | 27.02.2026| Friday  | *Fasnachstferien (No class)*                     |
 |2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & Fundamentals [Tin Sum]           | 
-|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Descent [Tin Sum]  |   
+|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Method [Tin Sum]  |   
 |4     | 20.03.2026| Friday  | Proximal Algorithms + CA  [Tin Sum]                |   
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | 
 |6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        |
@@ -121,7 +121,7 @@ QA will be conducted in lectures (~5 min long, mainly multiple-choice questions)
 Preliminary dates for continuous assessments (CA): 
 1. 11.03.2026 Wednesday Q&A1 (Prerequisite)
 2. 20.03.2026 Friday CA1 (Fundamentals)
-3. 25.03.2026 Wednesday Q&A2 (Subgradient Descent)
+3. 25.03.2026 Wednesday Q&A2 (Subgradient Method)
 4. 24.04.2026 Friday CA2 (Stochastic Optimization)
 5. 29.04.2026 Wednesday Q&A3 (Acceleration)
 6. 08.05.2026 Friday CA3 (Constrained Optimization)
