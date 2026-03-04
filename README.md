@@ -83,7 +83,7 @@ There is no exercise the first week. Please use this time to read the first chap
 | Week | Date      | Weekday | Topic                                            |
 |------|-----------|---------|--------------------------------------------------|
 |1     | 27.02.2026| Friday  | *Fasnachstferien (No class)*                     |
-|2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & Fundamentals [Tin Sum]           | 
+|2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & [Fundamentals](ex_02_fundamentals.pdf) [Tin Sum]           | 
 |3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Method [Tin Sum]  |   
 |4     | 20.03.2026| Friday  | Proximal Algorithms + CA  [Tin Sum]                |   
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | 
