@@ -107,7 +107,7 @@ There is no exercise the first week. Please use this time to read the first chap
 ## Scoring Scheme
 
 Note the following split:
-- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: Best 3/6 normalized)
+- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: Best 4/6 normalized)
 - 25% mid-term exam (written) 
 - 25% project (in-class presentation 10%, written report 10%, final recorded presentation 5%)
 - 35% final exam (written)
