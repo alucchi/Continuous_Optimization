@@ -82,8 +82,8 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 | Week | Date      | Weekday | Topic                                            |
 |------|-----------|---------|--------------------------------------------------|
 |1     | 27.02.2026| Friday  | *Fasnachstferien (No class)*                     |
-|2     | 06.03.2026| Friday  | [Introduction](ex_01_introduction.pdf) & [Fundamentals](ex_02_fundamentals.pdf) [Tin Sum]           | 
-|3     | 13.03.2026| Friday  | Gradient Descent & Subgradient Method [Tin Sum]  |   
+|2     | 06.03.2026| Friday  | [Introduction](exercise/ex_01_introduction.pdf) & [Fundamentals](exercise/ex_02_fundamentals.pdf) [Tin Sum]           | 
+|3     | 13.03.2026| Friday  | [Gradient Descent](exercise/ex_03_gradient_descent.pdf) & [Subgradient Method](exercise/ex_04_subgradient_method) [Tin Sum]  |   
 |4     | 20.03.2026| Friday  | Proximal Algorithms + CA  [Tin Sum]                |   
 |5     | 27.03.2026| Friday  | Newton's Method [Tin Sum]                        | 
 |6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        |
