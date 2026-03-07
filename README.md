@@ -2,8 +2,6 @@
 
 The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf).
 
-A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9). 
-Note these are the same requirements as the lecture "Foundations of Deep Learning".
 
 ## Weekly schedule
 Wednesday, 10.15-12.00
@@ -17,7 +15,8 @@ Bernoullistrasse 30/32, Hörsaal 103
 ~~Spiegelgasse 1, Seminarraum U1.001~~
 
 ## Prerequisites
-There is no exercise the first week. Please use this time to read the first chapter of the notes to ensure you have the necessary background for the upcoming lecture.
+A series of lectures covering the prerequisites for the class can be found [here](https://www.youtube.com/watch?v=Cz1sCRX5tek&list=PLvs1S8_6mIiW4ZXRHlHlLDPACSmdUPnZ9). 
+Note these are the same requirements as the lecture "Foundations of Deep Learning".
 
 
 &nbsp;
@@ -107,7 +106,7 @@ There is no exercise the first week. Please use this time to read the first chap
 ## Scoring Scheme
 
 Note the following split:
-- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: Best 4/6 normalized)
+- 15% continuous assessment (short exercises and Q&As given during lectures and exercise classes, Grading: **Best 4/6** normalized)
 - 25% mid-term exam (written) 
 - 25% project (in-class presentation 10%, written report 10%, final recorded presentation 5%)
 - 35% final exam (written)
@@ -117,7 +116,11 @@ Note the following split:
 
 ## Continuous Assessments (in lecture/class) 
 
-QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math).
+QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math). **The best 4 results out of 6 (normalized) will be counted towards the final grade.**
+
+*If you miss one assessment for a valid reason (e.g., illness or military service), we will offer one additional CA at the end of the semester (date to be determined). This additional CA will cover the entire second part of the course, i.e., the material discussed after the midterm.*
+
+*If you are unable to attend an assessment for a valid reason, please send the corresponding certificate directly to both TAs. The justification must be submitted within two weeks of the missed assessment. If we do not receive the justification within this time frame, the missed CA/QA will count toward your grade (still considering the best 4 out of 6 assessments).*
 
 Preliminary dates for continuous assessments (CA): 
 1. 11.03.2026 Wednesday Q&A1 (Prerequisite)
@@ -126,6 +129,9 @@ Preliminary dates for continuous assessments (CA):
 4. 24.04.2026 Friday CA2 (Stochastic Optimization)
 5. 29.04.2026 Wednesday Q&A3 (Acceleration)
 6. 08.05.2026 Friday CA3 (Constrained Optimization)
+7. ??.??.2026 ?? CA4 (to be determined)
+
+
 
 ## Mid-Term & Final Written Exams 
 - Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
