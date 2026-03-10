@@ -118,6 +118,8 @@ Note the following split:
 
 QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math). **The best 4 results out of 6 (normalized) will be counted towards the final grade.**
 
+Students are allowed to bring either **one single-sided A4 sheet** (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination.
+
 *If you miss one assessment for a valid reason (e.g., illness or military service), we will offer one additional CA at the end of the semester (date to be determined). This additional CA will cover the entire second part of the course, i.e., the material discussed after the midterm.*
 
 *If you are unable to attend an assessment for a valid reason, please send the corresponding certificate directly to both TAs. The justification must be submitted within two weeks of the missed assessment. If we do not receive the justification within this time frame, the missed CA/QA will count toward your grade (still considering the best 4 out of 6 assessments).*
