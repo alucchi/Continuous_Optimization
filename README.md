@@ -134,16 +134,19 @@ Preliminary dates for continuous assessments (CA):
 7. ??.??.2026 ?? CA4 (to be determined)
 
 
-
-## Mid-Term & Final Written Exams 
-- Date for the mid-term written exam: 08.04.2026 Wednesday 10:00-12:00, Kollegienhaus, Hörsaal 119
-- Date for the final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101
+## Mid-Term 
+Date for the mid-term written exam: 08.04.2026 Wednesday 10:15-11:55, Kollegienhaus, Hörsaal 119
+Time for mid-term: 100 min
+Topics on the mid-term exam: Fundamentals, Gradient Descent, Subgradient Method, Promixal Gradient Descent, Newton Method, Derivative-free
 
 Information about the exam:
-Students are allowed to bring either two double-sided A4 sheets or four single-sided A4 sheets of notes (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination, including the mid-term exam, final exam, and continuous assessments (CAs).
+Students are required to bring their ID card to prove their identity. Students are allowed to bring either **one double-sided A4 sheets or two single-sided A4 sheets of notes** (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination.
 
 Any attempt at fraud or academic misconduct will be reported to the Dean’s Office.
 
+## Final Written Exams 
+
+- Date for the final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101
 
 ## Projects
 Projects have to be completed within a group of 2-3 students. Two types of projects you can pursue are:
