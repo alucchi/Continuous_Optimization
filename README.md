@@ -136,8 +136,10 @@ Preliminary dates for continuous assessments (CA):
 
 ## Mid-Term 
 Date for the mid-term written exam: 08.04.2026 Wednesday 10:15-11:55, Kollegienhaus, Hörsaal 119
+
 Time for mid-term: 100 min
-Topics on the mid-term exam: Fundamentals, Gradient Descent, Subgradient Method, Promixal Gradient Descent, Newton Method, Derivative-free
+
+Topics on the mid-term exam: Fundamentals, Gradient Descent, Subgradient Method, Promixal Gradient Descent, Newton's Method, Derivative-free
 
 Information about the exam:
 Students are required to bring their ID card to prove their identity. Students are allowed to bring either **one double-sided A4 sheets or two single-sided A4 sheets of notes** (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination.
