@@ -86,7 +86,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |3     | 13.03.2026| Friday  | [Gradient Descent](exercise/ex_03_gradient_descent/) & [Subgradient Method](exercise/ex_04_subgradient_method/) [Tin Sum]  |   
 |4     | 20.03.2026| Friday  | [Proximal Gradient Descent](exercise/ex_05_proximal_gradient_descent.pdf) + CA1  [Tin Sum]        |   
 |5     | 27.03.2026| Friday  | [Newton's Method](exercise/ex_06_newtons_method.pdf) + Q&A2 [Tin Sum]                  | 
-|6     | 01.04.2026| Wednesday| Derivative-Free [Rustem]                        |
+|6     | 01.04.2026| Wednesday| [Derivative-Free](exercise/ex_07_derivative_free/ex_07_derivative_free.pdf) [Rustem]                        |
 |6     | 03.04.2026| Friday  | *Easter break (No class)*                        |
 |7     | 10.04.2026| Friday  | Stochastic Optimization   [Rustem]               | 
 |8     | 17.04.2026| Friday  | Acceleration + CA2 [Rustem]                      | 
