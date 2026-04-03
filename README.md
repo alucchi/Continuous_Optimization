@@ -168,6 +168,9 @@ Groups will be arranged to hold their in-class presentation (15-20 min long) abo
 2. Related Work [~6-7 min]
 3. Methodology, results in progress [~3-6 min]
 
+[Templates](project/) are uploaded: they are compiled by raw latex code output from different AI models. While we do not ban the use of AI during preparation, any unpolished work with similar quality as these templates or evidence of pure AI-generated works will be graded as fail. Also, be prepare for any questions from the audience, your answer and understanding to the topic will also be considered in the grade.
+
+
 ### Final Report
 deadline: 21.07.2026 12:00 Basel time on ADAM
 Final report should be written in a [conference paper format](https://arxiv.org/html/2505.10292v1). It may only be up to **eight pages long**, including figures. Additional pages containing references, checklist, and the optional technical appendices do not count as content pages. 
