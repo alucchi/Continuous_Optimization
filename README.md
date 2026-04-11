@@ -71,9 +71,9 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 | 11   | 04.05.2026 | Monday    | Non-convex Optimization    |
 | 11   | 06.05.2026 | Wednesday | *changed to exercise class (see below)*  |
 | 12   | 11.05.2026 | Monday    | *changed to exercise class (see below)*  |
-| 12   | 13.05.2026 | Wednesday | Project presentation       |
-| 13   | 18.05.2026 | Monday    | Project presentation       |
-| 13   | 20.05.2026 | Wednesday | Project presentation       |
+| 12   | 13.05.2026 | Wednesday | Project presentation (Teams 6, 5, 8, 11)      |
+| 13   | 18.05.2026 | Monday    | Project presentation (Teams 2, 13, 1, 12)      |
+| 13   | 20.05.2026 | Wednesday | Project presentation (Teams 7, 10, 3, 4)      |
 | 14   | 25.05.2026 | Monday    | *Pfingstmontag (No lecture)* |
 | 14   | 27.05.2026 | Wednesday | Review (exam preparation)  |
 
