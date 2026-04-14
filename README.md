@@ -170,7 +170,7 @@ Groups will be arranged to hold their in-class presentation (15-20 min long) abo
 
 **Not only the presenting teams, all other students are also required to join. You will receive penalty when you are absent without a valid justification.**
 
-[Counter examples: AI generated slides](project/) are uploaded: they are compiled by raw latex code output from different AI models. While we do not ban the use of AI during preparation, any unpolished work with similar quality as these templates or evidence of pure AI-generated works will be graded as fail. Also, be prepare for any questions from the audience, your answer and understanding to the topic will also be considered in the grade.
+[Counter-examples: AI generated slides](project/) are uploaded: they are compiled by raw latex code output from different AI models. While we do not ban the use of AI during preparation, any unpolished work with similar quality as these templates or evidence of pure AI-generated works will be graded as fail. **Please polish your slides and make them readable and fit in 15-20 minutes. Also, be prepare for any questions from the audience, your answer and understanding to the topic will also be considered in the grade.**
 
 
 ### Final Report
