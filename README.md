@@ -161,12 +161,14 @@ The performance on the in-class presentation, final report and the final recorde
 Link to project description: [here](Continuous_Optimization_2026_Projects.pdf)
 
 ### In-class presentation
-dates: 13.05.2026 Wednesday, 18.05.2026 Monday, 20.05.2026 Wednesday
+dates: 13.05.2026 Wednesday (Teams 6, 5, 8, 11) , 18.05.2026 Monday (Teams 2, 13, 1, 12), 20.05.2026 Wednesday (Teams 7, 10, 3, 4)
 Groups will be arranged to hold their in-class presentation (15-20 min long) about their progress in the projects, including:
 
 1. introduction (motivation, goal ...) [~ 6-7 min]
 2. Related Work [~6-7 min]
 3. Methodology, results in progress [~3-6 min]
+
+**Not only the presenting teams, all other students are also required to join. You will receive penalty when you are absent without a valid justification.**
 
 [Templates](project/) are uploaded: they are compiled by raw latex code output from different AI models. While we do not ban the use of AI during preparation, any unpolished work with similar quality as these templates or evidence of pure AI-generated works will be graded as fail. Also, be prepare for any questions from the audience, your answer and understanding to the topic will also be considered in the grade.
 
