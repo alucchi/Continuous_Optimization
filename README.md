@@ -35,7 +35,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |7     | *Easter break (no lecture)*   | **Mid-term exam**             | Exercise Stochastic Optimization| 
 |8     | Acceleration                  | Constrained Optimization      | Exercise Acceleration + CA2    |
 |9     | Frank-Wolfe                   | Mid-term Exam Solution        | Exercise Constrained Optimization + Q&A3 | 
-|10    | Adaptive Optimization Methods | Non-convex Optimization       | *Labour holiday (No class)*   | 
+|10    | Adaptive Optimization Methods | *No class*                    | *Labour holiday (No class)*   | 
 |11    | Non-convex Optimization       | Exercise Frank-Wolfe          | Exercise Adaptive Optimization Methods + CA3   |
 |12    | Exercise Non-convex Optimization | Project presentation       | *Auffahrt (No class)*         | 
 |13    | Project presentation          | Project presentation          | Exam Preparation              | 
@@ -67,7 +67,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 | 9    | 20.04.2026 | Monday    | Frank-Wolfe           |
 | 9    | 22.04.2026 | Wednesday | *changed to exercise class (see below)*   |
 | 10   | 27.04.2026 | Monday    | Adaptive Optimization Methods       |
-| 10   | 29.04.2026 | Wednesday | Non-convex Optimization  |
+| 10   | 29.04.2026 | Wednesday | *No class*  |
 | 11   | 04.05.2026 | Monday    | Non-convex Optimization    |
 | 11   | 06.05.2026 | Wednesday | *changed to exercise class (see below)*  |
 | 12   | 11.05.2026 | Monday    | *changed to exercise class (see below)*  |
