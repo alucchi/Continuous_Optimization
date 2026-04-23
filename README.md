@@ -91,7 +91,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |7     | 10.04.2026| Friday  | [Stochastic Optimization](exercise/ex_08_stochastic_optimization.pdf)   [Rustem]               | 
 |8     | 17.04.2026| Friday  | [Acceleration](exercise/ex_09_acceleration/ex_09_acceleration.pdf) + CA2 [Rustem]                      | 
 |9     | 22.04.2026| Wednesday| Mid-term Exam Solution  [Rustem]                | 
-|9     | 24.04.2026| Friday  | Constrained Optimization + Q&A3  [Tin Sum]        | 
+|9     | 24.04.2026| Friday  | [Constrained Optimization](exercise/ex_10_constrained_optimization.pdf) + Q&A3  [Tin Sum]        | 
 |10    | 01.05.2026| Friday  | *Labour holiday (No class)*                      | 
 |11    | 06.05.2026| Wednesday|  Frank-Wolfe  [Tin Sum]                         |
 |11    | 08.05.2026| Friday  | Adaptive Optimization Methods + CA3  [Rustem]     |
