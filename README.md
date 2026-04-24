@@ -93,8 +93,8 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |9     | 22.04.2026| Wednesday| Mid-term Exam Solution  [Rustem]                | 
 |9     | 24.04.2026| Friday  | [Constrained Optimization](exercise/ex_10_constrained_optimization.pdf) + Q&A3  [Tin Sum]        | 
 |10    | 01.05.2026| Friday  | *Labour holiday (No class)*                      | 
-|11    | 06.05.2026| Wednesday|  [Frank-Wolfe](exercise/ex_11_frank_wolfe_algorithm/ex_11_frank_wolfe_algorithm.pdf)  [Tin Sum]                         |
-|11    | 08.05.2026| Friday  | Adaptive Optimization Methods + CA3  [Rustem]     |
+|11    | 06.05.2026| Wednesday|  [Frank-Wolfe](exercise/ex_11_frank_wolfe_algorithm/)  [Tin Sum]                         |
+|11    | 08.05.2026| Friday  | [Adaptive Optimization Methods](exercise/ex_13_adaptive_methods.pdf) + CA3  [Rustem]     |
 |12    | 11.05.2026| Monday  | Non-convex Optimization   [Rustem]              |
 |12    | 15.05.2026| Friday  | *Auffahrt (No class)*                           | 
 |13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                       | 
