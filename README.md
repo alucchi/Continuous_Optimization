@@ -131,7 +131,7 @@ Preliminary dates for continuous assessments (CA):
 4. 17.04.2026 Friday CA2 (Stochastic Optimization)
 5. 24.04.2026 Friday Q&A3 (Acceleration)
 6. 08.05.2026 Friday CA3 (Constrained Optimization)
-7. ??.??.2026 ?? CA4 (to be determined)
+7. ??.??.2026 ?? CA4 (to be determined, only for students absent in previous assessment dates with valid reasons)
 
 
 ## Mid-Term 
