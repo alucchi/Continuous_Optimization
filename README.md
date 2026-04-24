@@ -112,7 +112,7 @@ Note the following split:
 - 35% final exam (written)
 
 
-**A 50% score on mid-term exam is required to participate in the final exam. A 50% score on the final exam is required to pass the class.**
+**A 40% score on mid-term exam is required to participate in the final exam. A 40% score on the final exam is required to pass the class.**
 
 ## Continuous Assessments (in lecture/class) 
 
