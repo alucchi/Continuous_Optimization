@@ -7,10 +7,10 @@ Due to the number of teams presenting and the time limit, keep your presentation
 Other audience and we could ask you questions regarding the topic. 
 
 ## Expected Format
-Introduction (motivation, goal ...) [~ 5 min]
-Related Work [~5 min]
-Methodology, results in progress [~5 min]
-Q&A [~5 min]
+- Introduction (motivation, goal ...) [~ 5 min]
+- Related Work [~5 min]
+- Methodology, results in progress [~5 min]
+- Q&A [~5 min]
 
 ## Grading Scheme
 
