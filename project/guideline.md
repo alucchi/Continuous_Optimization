@@ -42,3 +42,5 @@ Other audience and we could ask you questions regarding the topic.
 - No insights.
 - No trustworthy results.
 - Chaotic presentation or severely overtime.
+
+[Counter-examples: AI generated slides](project/) are uploaded: they are compiled by raw latex code output from different AI models. While we do not ban the use of AI during preparation, any unpolished work with similar quality as these templates or evidence of pure AI-generated works will be graded as fail. **Please polish your slides and make them readable and fit in 15-20 minutes. Also, be prepare for any questions from the audience, your answer and understanding to the topic will also be considered in the grade.**
