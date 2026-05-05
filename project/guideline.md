@@ -1,7 +1,7 @@
 # In-class Presentation
 
 All presentation dates are mandatory, even when you are not presenting. We will check your presence. 
-When you are presenting, please bring your tablet or laptop. 
+When you are presenting, please bring your tablet or laptop. You could send us your slides one day before as plan B.
 
 Due to the number of teams presenting and the time limit, keep your presentation within 15 minutes and prepare 5 min for Q&A. 
 Other audience and we could ask you questions regarding the topic. 
