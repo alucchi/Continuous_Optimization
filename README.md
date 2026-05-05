@@ -95,7 +95,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |10    | 01.05.2026| Friday  | *Labour holiday (No class)*                      | 
 |11    | 06.05.2026| Wednesday|  [Frank-Wolfe](exercise/ex_11_frank_wolfe_algorithm/)  [Tin Sum]                         |
 |11    | 08.05.2026| Friday  | [Adaptive Optimization Methods](exercise/ex_13_adaptive_methods.pdf) + CA3  [Rustem]     |
-|12    | 11.05.2026| Monday  | Non-convex Optimization   [Rustem]              |
+|12    | 11.05.2026| Monday  | [Non-convex Optimization](exercise/ex_14_non_convex_optimization.pdf)   [Rustem]              |
 |12    | 15.05.2026| Friday  | *Auffahrt (No class)*                           | 
 |13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                       | 
 
