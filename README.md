@@ -97,7 +97,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |11    | 08.05.2026| Friday  | [Adaptive Optimization Methods](exercise/ex_13_adaptive_methods.pdf) + CA3  [Rustem]     |
 |12    | 11.05.2026| Monday  | [Non-convex Optimization](exercise/ex_14_non_convex_optimization.pdf)   [Rustem]              |
 |12    | 15.05.2026| Friday  | *Auffahrt (No class)*                           | 
-|13    | 22.05.2026| Friday  | Exam Preparation [Rustem]                       | 
+|13    | 22.05.2026| Friday  | No class]                       | 
 
 
 
