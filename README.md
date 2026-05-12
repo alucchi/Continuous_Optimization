@@ -39,7 +39,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |11    | Non-convex Optimization       | Exercise Frank-Wolfe          | Exercise Adaptive Optimization Methods + CA3   |
 |12    | Exercise Non-convex Optimization | Project presentation       | *Auffahrt (No class)*         | 
 |13    | Project presentation          | Project presentation          | Exam Preparation              | 
-|14    | *Pfingstmontag (No lecture)*  | Review (exam preparation)     | -                             | 
+|14    | *Pfingstmontag (No lecture)*  | Exam preparation (Rustem)   | -                             | 
 
 
 
