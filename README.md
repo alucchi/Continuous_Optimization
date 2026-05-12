@@ -75,7 +75,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 | 13   | 18.05.2026 | Monday    | Project presentation (Teams 2, 13, 1, 12)      |
 | 13   | 20.05.2026 | Wednesday | Project presentation (Teams 7, 10, 3, 4)      |
 | 14   | 25.05.2026 | Monday    | *Pfingstmontag (No lecture)* |
-| 14   | 27.05.2026 | Wednesday | Review (exam preparation)  |
+| 14   | 27.05.2026 | Wednesday | Exam preparation (Rustem)  |
 
 ## Exercise class schedule 
 
@@ -97,7 +97,7 @@ Note these are the same requirements as the lecture "Foundations of Deep Learnin
 |11    | 08.05.2026| Friday  | [Adaptive Optimization Methods](exercise/ex_13_adaptive_methods.pdf) + CA3  [Rustem]     |
 |12    | 11.05.2026| Monday  | [Non-convex Optimization](exercise/ex_14_non_convex_optimization.pdf)   [Rustem]              |
 |12    | 15.05.2026| Friday  | *Auffahrt (No class)*                           | 
-|13    | 22.05.2026| Friday  | No class]                       | 
+|13    | 22.05.2026| Friday  | No class                       | 
 
 
 
