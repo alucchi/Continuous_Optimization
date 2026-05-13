@@ -111,9 +111,6 @@ Note the following split:
 - 25% project (in-class presentation 10%, written report 10%, final recorded presentation 5%)
 - 35% final exam (written)
 
-
-**A 40% score on mid-term exam is required to participate in the final exam. A 40% score on the final exam is required to pass the class.**
-
 ## Continuous Assessments (in lecture/class) 
 
 QA will be conducted in lectures (~5 min long, mainly multiple-choice questions). CA will be conducted in exercise classes (~15 min long, mainly short questions with math). **The best 4 results out of 6 (normalized) will be counted towards the final grade.**
