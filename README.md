@@ -128,7 +128,7 @@ Preliminary dates for continuous assessments (CA):
 4. 17.04.2026 Friday CA2 (Stochastic Optimization)
 5. 24.04.2026 Friday Q&A3 (Acceleration)
 6. 08.05.2026 Friday CA3 (Constrained Optimization)
-7. 27.05.2026 ?? CA4 (to be determined, only for students absent in previous assessment dates with valid reasons)
+7. 27.05.2026 Wednesday CA4 (only for students absent in previous assessment dates with valid reasons)
 
 
 ## Mid-Term 
@@ -146,6 +146,14 @@ Any attempt at fraud or academic misconduct will be reported to the Dean’s Off
 ## Final Written Exams 
 
 - Date for the final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101
+
+Time for final exam: 120 min
+
+Topics on the final exam: mid-term materials, Acceleration, Constrained Optimization, Frank-Wolfe, Stochastic Optimization, Adaptive Methods, Non-Convex Optimization
+
+Information about the exam: Students are required to bring their ID card to prove their identity. Students are allowed to bring either **two double-sided A4 sheets or four single-sided A4 sheets of notes** (handwritten or prepared using LaTeX). No other external material is permitted. In particular, the use of mobile phones or any other electronic equipment is strictly forbidden. All electronic devices must be switched to airplane mode during any examination.
+
+Any attempt at fraud or academic misconduct will be reported to the Dean’s Office.
 
 ## Projects
 Projects have to be completed within a group of 2-3 students. Two types of projects you can pursue are:
