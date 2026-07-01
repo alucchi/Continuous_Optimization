@@ -177,12 +177,16 @@ See the [guideline](project/guideline.md) for more details.
 
 
 ### Final Report
-deadline: 21.07.2026 12:00 Basel time on ADAM
-Final report should be written in a [conference paper format](https://arxiv.org/html/2505.10292v1). It may only be up to **eight pages long**, including figures. Additional pages containing references, checklist, and the optional technical appendices do not count as content pages. 
+deadline: 21.07.2026 12:00 Basel time
 
-### Final Recorded Presentation
-deadline: 21.07.2026 12:00 Basel time on ADAM
-A recording of the presentation of the final report (15-20 min long) should be uploaded along with the final report on ADAM as well.
+Each team submit **one single** .zip file with name: [team_no]_[topic].zip. Send the .zip file to the tutors via emails.
+
+You should hand in:
+1. the whole final report in .pdf written in a [conference paper format](https://arxiv.org/html/2505.10292v1). It can only be up to **eight pages long**, including figures. Additional pages containing references, checklist, and the optional technical appendices do not count as content pages.
+2. A recording of the presentation of the final report (15-20 min long), in .mp4 or other format.
+3. The source code/notebook/log relevant to the report.
+
+Note that the quality of the material would affect your grade, please ensure to submit all relevant (and not redundant) material to your project.
 
 
 
