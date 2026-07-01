@@ -2,6 +2,8 @@
 
 The whole set of lecture notes can be downloaded here: [Lecture notes](notes/lecture_notes.pdf).
 
+**final written exam: 06.07.2026 Monday 10:00-12:00, Biozentrum U1.101**
+
 
 ## Weekly schedule
 Wednesday, 10.15-12.00
